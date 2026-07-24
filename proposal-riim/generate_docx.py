@@ -114,16 +114,18 @@ add_para("Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produks
 
 add_h("2. Abstrak", 1)
 add_para(
-    "Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah dengan ciri khas fenotip teropong "
-    "(warna bulu hitam melingkar di sekitar mata), yang saat ini diusulkan sebagai identitas galur/rumpun lokal unggul. "
-    "Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik "
-    "maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung "
-    "penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan genomik (GWAS dan signatures of selection) serta "
-    "metabolomik secara bertahap: Tahun 1 fokus fenotip Teropong dan sifat produksi; Tahun 2 fokus sifat reproduksi; "
-    "Tahun 3 integrasi multi-omik untuk menghasilkan standar dan naskah usulan galur. Populasi studi berada di Kabupaten "
-    "Temanggung bersama mitra DKPPP dan komunitas peternak. Luaran mencakup publikasi internasional bereputasi, kekayaan "
-    "intelektual, model seleksi per tahap, serta dokumen usulan galur yang siap diajukan untuk memperkuat bibit lokal unggul "
-    "dan ketahanan pangan nasional."
+    "Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah yang saat ini sedang dalam proses pengusulan sebagai rumpun "
+    "lokal. Dalam populasinya terdapat ciri fenotip Teropong maupun non-Teropong; fenotip Teropong dicirikan oleh warna bulu "
+    "hitam melingkar di sekitar mata, sedangkan non-Teropong tidak menampilkan pola tersebut secara khas. Karena keduanya "
+    "masih berada dalam satu populasi Domba Temanggung, penggaluran khusus menuju Domba Temanggung Teropong masih diperlukan "
+    "agar identitas genetik, standar bibit, dan nilai ekonomi galur tersebut lebih terarah. Hingga kini diferensiasi Teropong "
+    "versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik maternal terbatas (mtDNA), sehingga "
+    "bukti genomik nuklear maupun profil metabolomik untuk penggaluran berbasis sains belum tersedia. Riset ini "
+    "mengintegrasikan pendekatan genomik (GWAS dan signatures of selection) serta metabolomik secara bertahap: Tahun 1 fokus "
+    "fenotip Teropong dan sifat produksi; Tahun 2 fokus sifat reproduksi; Tahun 3 integrasi multi-omik untuk menghasilkan "
+    "standar dan naskah usulan galur. Populasi studi berada di Kabupaten Temanggung bersama mitra DKPPP dan komunitas peternak. "
+    "Luaran mencakup publikasi internasional bereputasi, kekayaan intelektual, model seleksi per tahap, serta dokumen usulan "
+    "galur yang siap diajukan untuk memperkuat bibit lokal unggul dan ketahanan pangan nasional."
 )
 add_para("Kata kunci: Domba Temanggung; fenotip teropong; GWAS; signatures of selection; metabolomik; sifat produksi; reproduksi; penggaluran bibit; ketahanan pangan", bold=False)
 add_para("Keywords: Temanggung sheep; periocular black phenotype; GWAS; signatures of selection; metabolomics; production traits; reproduction; breed/line development; food security")
