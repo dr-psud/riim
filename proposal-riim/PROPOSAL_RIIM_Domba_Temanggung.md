@@ -58,11 +58,11 @@ Dinas Ketahanan Pangan, Pertanian dan Perikanan (DKPPP) Kabupaten Temanggung / K
 
 **6. Keluaran**
 
-| No | Uraian | Tahun 1 | Tahun 2 | Tahun 3 |
+| No | Uraian | Tahun 1 (Fenotip Teropong & Produksi) | Tahun 2 (Sifat Reproduksi) | Tahun 3 (Usulan Galur) |
 |---|---|---|---|---|
-| 1 | Publikasi jurnal internasional bereputasi (minimal Q3) | 1 KTI *under review* | 1 KTI *accepted* (akumulasi T1) + 1 KTI baru *under review* | 1 KTI *published* + 1 KTI *accepted* + 1 KTI baru *under review* |
-| 2 | Kekayaan Intelektual | 1 draft paten sederhana / hak cipta basis data marka genetik | 1 paten sederhana terdaftar (panel marka SNP) | 1 KI tambahan (protokol penggaluran / model seleksi) terdaftar |
-| 3 | Model / implementasi | Draft standar fenotipik galur Teropong | Model seleksi berbasis genomik–metabolomik | Rekomendasi teknis penggaluran bibit unggul kepada mitra/pemda |
+| 1 | Publikasi jurnal internasional bereputasi (minimal Q3) | 1 KTI *under review* (Teropong & produksi) | 1 KTI *accepted* (akumulasi T1) + 1 KTI baru *under review* (reproduksi) | 1 KTI *published* + 1 KTI *accepted* + 1 KTI baru *under review* (integrasi/usulan galur) |
+| 2 | Kekayaan Intelektual | 1 draft paten sederhana / hak cipta panel marka Teropong–produksi | 1 paten sederhana terdaftar (marka/protokol reproduksi atau panel terintegrasi tahap I) | 1 KI tambahan terdaftar (protokol/standar penggaluran Domba Temanggung) |
+| 3 | Model / implementasi | Model/standar fenotip Teropong + sifat produksi | Model seleksi sifat reproduksi berbasis genomik–metabolomik | **Naskah usulan galur** Domba Temanggung siap diajukan ke pemda/kementerian |
 
 **7. Pendanaan**
 
@@ -95,7 +95,7 @@ Dengan ini menyatakan bahwa proposal yang diajukan bersifat orisinil dan belum p
 
 ## 2. Abstrak
 
-Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah dengan ciri khas fenotip *teropong* (warna bulu hitam melingkar di sekitar mata), yang saat ini diusulkan sebagai identitas galur/rumpun lokal unggul. Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan **genomik** (GWAS dan *signatures of selection*) serta **metabolomik** untuk mengarakterisasi fenotip Teropong, sifat produksi (bobot badan dan morfometri), serta reproduksi Domba Temanggung sebagai basis penggaluran bibit unggul. Populasi studi dirancang case–control dan kuantitatif pada Domba Temanggung di Kabupaten Temanggung dengan mitra DKPPP dan komunitas peternak. Kegiatan meliputi standardisasi fenotip, genotyping/whole-genome sequencing, asosiasi genom–fenotip, deteksi jejak seleksi, profil metabolom serum/jaringan terkait, serta integrasi multi-omik untuk menghasilkan panel marka dan model seleksi. Luaran utama mencakup publikasi jurnal internasional bereputasi, kekayaan intelektual (panel marka/paten sederhana), dan rekomendasi teknis penggaluran yang dapat memperkuat penyediaan bibit lokal unggul dan mendukung ketahanan pangan berbasis protein hewani.
+Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah dengan ciri khas fenotip *teropong* (warna bulu hitam melingkar di sekitar mata), yang saat ini diusulkan sebagai identitas galur/rumpun lokal unggul. Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan **genomik** (GWAS dan *signatures of selection*) serta **metabolomik** pada Domba Temanggung secara bertahap: **Tahun 1** fokus fenotip Teropong dan sifat produksi; **Tahun 2** fokus sifat reproduksi; **Tahun 3** integrasi multi-omik untuk menghasilkan standar dan **naskah usulan galur**. Populasi studi berada di Kabupaten Temanggung bersama mitra DKPPP dan komunitas peternak. Luaran mencakup publikasi internasional bereputasi, kekayaan intelektual, model seleksi per tahap, serta dokumen usulan galur yang siap diajukan untuk memperkuat bibit lokal unggul dan ketahanan pangan nasional.
 
 **Kata kunci:** Domba Temanggung; fenotip teropong; GWAS; *signatures of selection*; metabolomik; sifat produksi; reproduksi; penggaluran bibit; ketahanan pangan
 
@@ -140,36 +140,27 @@ Fenotip Teropong dikendalikan oleh lokus genetik terkait pigmen yang dapat dipet
 **Tujuan umum:**  
 Menghasilkan basis saintifik genomik–metabolomik untuk penggaluran Domba Temanggung fenotip Teropong sebagai bibit unggul pendukung ketahanan pangan.
 
-**Tujuan khusus:**
-1. Menetapkan standar fenotipik Teropong, sifat produksi, dan reproduksi Domba Temanggung.
-2. Mengidentifikasi lokus/kandidat gen terkait fenotip Teropong melalui GWAS dan *signatures of selection*.
-3. Memetakan asosiasi genomik sifat bobot badan, morfometri, dan reproduksi.
-4. Mengarakterisasi profil metabolom terkait kelompok fenotip/performa.
-5. Menyusun panel marka dan model seleksi multi-omik untuk penggaluran bibit.
-6. Menyusun rekomendasi teknis penggaluran bersama mitra daerah.
+**Tujuan khusus (bertahap per tahun):**
+1. **Tahun 1:** Menetapkan standar dan basis genomik–metabolomik fenotip Teropong serta sifat produksi (bobot badan dan morfometri).
+2. **Tahun 2:** Memetakan basis genomik–metabolomik sifat reproduksi Domba Temanggung dan menyusun model seleksi reproduksi.
+3. **Tahun 3:** Mengintegrasikan seluruh paket sifat (Teropong + produksi + reproduksi) menjadi panel marka, standar galur, dan **naskah usulan galur** yang siap diajukan.
 
 **Sasaran:**
-- Tersedianya data primer fenotipik, genomik, dan metabolomik Domba Temanggung yang terkurasi.
-- Tersedianya kandidat marka genetik dan biomarker metabolit.
-- Tersusunnya draf standar galur Teropong dan model seleksi bibit.
-- Meningkatnya kesiapan hilirisasi menuju penetapan galur/rumpun dan sistem perbibitan lokal.
+- Tahun 1: tersedia database fenotip Teropong–produksi, kandidat lokus/marka, dan draf standar identitas–produksi.
+- Tahun 2: tersedia parameter reproduksi terukur, kandidat marka/biomarker reproduksi, dan model seleksi reproduksi.
+- Tahun 3: tersedia dokumen usulan galur Domba Temanggung berbasis bukti multi-omik untuk mitra/pemda/kementerian.
 
 ## 4. Kerangka Berpikir dan Nilai Strategis
 
 ### 4.1 Kerangka Berpikir
 
-Riset bertolak dari kebutuhan membedakan dan mengembangkan galur Domba Temanggung Teropong secara ilmiah. Kerangka alur sebagai berikut:
+Riset bertolak dari kebutuhan membedakan dan mengembangkan galur Domba Temanggung Teropong secara ilmiah melalui tahapan sifat yang logis menuju usulan galur:
 
-1. **Input:** populasi Domba Temanggung (Teropong vs non-Teropong) + data sifat produksi & reproduksi.
-2. **Proses:**
-   - Standardisasi fenotip dan sampling biologis;
-   - Analisis genomik: struktur populasi, GWAS, *signatures of selection* (FST, π-ratio, iHS/XP-EHH, ROH);
-   - Analisis metabolomik untargeted/targeted;
-   - Integrasi multi-omik (gen → metabolit → fenotip).
-3. **Output:** lokus kandidat, panel marka, biomarker, model seleksi, rekomendasi penggaluran.
-4. **Outcome:** penguatan sistem bibit lokal unggul → peningkatan produktivitas peternak → kontribusi protein hewani nasional (ketahanan pangan).
+1. **Tahun 1 — identitas & produksi:** fenotip Teropong + bobot/morfometri → GWAS/*signatures of selection*/metabolomik → standar identitas–produksi.
+2. **Tahun 2 — reproduksi:** parameter reproduksi → GWAS & metabolomik reproduksi → model seleksi reproduksi.
+3. **Tahun 3 — penggaluran:** integrasi ketiga paket sifat → panel marka final + standar galur → **naskah usulan galur**.
 
-Secara konseptual, fenotip Teropong berfungsi sebagai *breed/line identity marker*, sementara sifat produksi dan reproduksi menjadi *economic merit*. Genomik menjelaskan heritabilitas dan lokus kunci; metabolomik menjelaskan status fisiologis/metabolik yang relevan dengan performa. Integrasi keduanya mengurangi risiko seleksi hanya berbasis penampilan visual.
+Secara konseptual, fenotip Teropong berfungsi sebagai *breed/line identity marker*, sementara sifat produksi dan reproduksi menjadi *economic merit*. Genomik menjelaskan heritabilitas dan lokus kunci; metabolomik menjelaskan status fisiologis/metabolik yang relevan dengan performa. Integrasi bertahap memastikan pada akhir Tahun 3 bukti ilmiah sudah memadai untuk usulan galur.
 
 ### 4.2 Nilai Strategis
 
@@ -181,155 +172,152 @@ Secara konseptual, fenotip Teropong berfungsi sebagai *breed/line identity marke
 
 ## 5. Peta Jalan (*Roadmap*)
 
-Durasi usulan: **3 tahun** (2026–2028).
+Durasi usulan: **3 tahun** (2026–2028), dengan fokus sifat yang berjenjang menuju kesiapan usulan galur.
 
-| Tahun | Fokus | Output Tahunan |
-|---|---|---|
-| **Tahun 1** | Fondasi fenotip & data omik | Standar fenotip; koleksi sampel ≥100 ekor; genotyping tahap I; metabolom subset; draft manuskrip 1; draft KI |
-| **Tahun 2** | Analisis genomik–metabolomik mendalam | Hasil GWAS & selection signatures; profil metabolom diferensial; model asosiasi awal; KTI T1 *accepted*; KTI baru *under review*; paten sederhana terdaftar |
-| **Tahun 3** | Integrasi, validasi & hilirisasi | Panel marka tervalidasi; model seleksi multi-omik; rekomendasi penggaluran; publikasi *published*; KI tambahan; diseminasi mitra |
+| Tahun | Fokus Sifat | Kegiatan Inti | Output Tahunan |
+|---|---|---|---|
+| **Tahun 1** | **Fenotip Teropong & sifat produksi** | Standardisasi skor Teropong; pengukuran bobot & morfometri; genotyping; GWAS + *signatures of selection* Teropong–produksi; metabolomik terkait identitas/produksi | Standar fenotip Teropong–produksi; kandidat marka; KTI1 *under review*; draft KI; model identitas–produksi |
+| **Tahun 2** | **Sifat reproduksi** | Pencatatan/ukur parameter reproduksi; GWAS reproduksi; metabolomik fisiologi reproduksi; penyusunan model seleksi reproduksi | Parameter reproduksi terukur; kandidat marka/biomarker reproduksi; KTI2 *under review*; KI terdaftar; model seleksi reproduksi |
+| **Tahun 3** | **Integrasi & usulan galur** | Integrasi multi-omik ketiga paket sifat; validasi panel marka; finalisasi standar galur; penyusunan naskah usulan galur bersama mitra | Panel marka terintegrasi; standar galur final; **naskah usulan galur** siap diajukan; KTI3 *under review*; KI tambahan |
 
 **Produk akhir (output besar):**  
-**Sistem penggaluran bibit Domba Temanggung berbasis genomik–metabolomik** (standar fenotip + panel marka + model seleksi + rekomendasi kebijakan/teknis) untuk mendukung ketahanan pangan.
+**Naskah usulan galur Domba Temanggung** berbasis bukti genomik–metabolomik pada fenotip Teropong, sifat produksi, dan reproduksi, lengkap dengan panel marka dan model seleksi bibit unggul untuk mendukung ketahanan pangan nasional.
 
-**Peta jalan lanjutan (pasca-RIIM, non-pendanaan usulan):** uji lapangan skala lebih luas, pengembangan kit genotyping cepat, dan integrasi ke program perbibitan daerah.
+**Peta jalan lanjutan (pasca-RIIM):** pendampingan proses penetapan galur/rumpun di kementerian, uji lapangan skala lebih luas, dan adopsi panel marka pada sistem perbibitan daerah.
 
 ## 6. Metodologi
 
 ### 6.1 Desain Riset
 
-Desain kombinasi:
-- **Case–control** untuk fenotip Teropong vs non-Teropong;
-- **Asosiasi kuantitatif** untuk bobot badan, morfometri, dan parameter reproduksi;
-- **Multi-omik integratif** (genomik + metabolomik).
+Desain kombinasi bertahap:
+- **Tahun 1 — case–control & kuantitatif:** Teropong vs non-Teropong serta sifat produksi (bobot, morfometri);
+- **Tahun 2 — kuantitatif reproduksi:** litter size, interval beranak, kebuntingan, survival anak, dan/atau indikator fisiologis;
+- **Tahun 3 — integratif:** multi-omik lintas sifat untuk penyusunan standar dan usulan galur.
 
 ### 6.2 Lokasi dan Populasi
 
 - Lokasi: Kabupaten Temanggung, Jawa Tengah (wilayah sebaran Domba Temanggung).
 - Mitra: DKPPP Temanggung dan komunitas DSL/peternak.
-- Target sampel genomik: **100–150 ekor** (seimbang Teropong : non-Teropong), dengan penambahan bertahap sesuai tahun pendanaan dan ketersediaan anggaran berbasis output.
-- Subset metabolomik: **30–50 ekor** terpilih berdasarkan kontras fenotip/performa, distandardisasi pakan/puasa sampling.
+- Target sampel genomik kumulatif: **100–150 ekor** (seimbang Teropong : non-Teropong).
+  - Tahun 1: genotyping inti (±100–120 ekor) untuk Teropong & produksi.
+  - Tahun 2: penambahan/pendalaman sampel betina produktif untuk analisis reproduksi (±20–40 ekor tambahan atau subset terfokus).
+  - Tahun 3: validasi panel marka pada kohort terbatas.
+- Subset metabolomik: **30–50 ekor** total (Tahun 1 fokus Teropong/produksi; Tahun 2 fokus status reproduksi), distandardisasi sampling.
 
-### 6.3 Tahapan Pekerjaan
+### 6.3 Tahapan Pekerjaan per Tahun
 
-#### A. Klirens etik dan perizinan
-Pengajuan Klirens Etik Riset sesuai Peraturan BRIN sebelum sampling hewan.
+#### A. Persiapan lintas tahun
+Klirens Etik Riset (Peraturan BRIN), MoU mitra, SOP fenotip/sampling, dan Data Management Plan (DMP).
 
-#### B. Standardisasi fenotip
-1. **Fenotip Teropong:** skor kehadiran/intensitas/simetri lingkar hitam periokular (skala ordinal + foto standar).
-2. **Sifat produksi:** bobot badan; morfometri (tinggi pundak, panjang badan, lingkar dada, lebar dada, dalam dada, lingkar cannon, dll.) merujuk praktik karakterisasi domba lokal (Gunawan et al., 2008; Hidayat et al., 2024).
-3. **Reproduksi:** litter size, jarak beranak, angka kebuntingan, survival anak, dan/atau indikator fisiologis terkait (sesuai ketersediaan rekaman peternak; dilengkapi ultrasonografi bila memungkinkan).
-4. Kovariat: umur, jenis kelamin, tipe kelahiran, lokasi/peternak, manajemen.
+#### B. Tahun 1 — Fenotip Teropong & sifat produksi
+1. **Standardisasi fenotip Teropong:** skor kehadiran/intensitas/simetri lingkar hitam periokular + foto standar.
+2. **Sifat produksi:** bobot badan; morfometri (tinggi pundak, panjang badan, lingkar dada, lebar dada, dalam dada, lingkar cannon, dll.) merujuk karakterisasi domba lokal (Gunawan et al., 2008; Hidayat et al., 2024).
+3. **Sampling biologis:** darah EDTA (DNA) dan serum/plasma (metabolom); cold-chain & biobank.
+4. **Genomik:** ekstraksi DNA & QC; genotyping (SNP chip densitas menengah / lcWGS); QC genotip; PCA/struktur populasi; **GWAS** Teropong (biner) dan produksi (kuantitatif); ***signatures of selection*** (FST, π-ratio, iHS/XP-EHH, ROH) antar Teropong vs non-Teropong; anotasi gen kandidat jalur melanogenesis & pertumbuhan.
+5. **Metabolomik tahap I:** LC-MS/MS untargeted pada subset kontras Teropong/produksi; PCA/OPLS-DA; pathway enrichment.
+6. **Keluaran T1:** draf standar identitas–produksi; daftar kandidat marka; manuskrip KTI1; draft KI.
 
-#### C. Sampling biologis
-Darah (EDTA) untuk DNA; serum/plasma untuk metabolomik; subset swab/jaringan kulit periokular (opsional) untuk validasi jalur pigmen. Sampel disimpan cold-chain dan dikurasi dalam Data Management Plan (DMP).
+#### C. Tahun 2 — Sifat reproduksi
+1. **Pencatatan sifat reproduksi** pada betina (dan pejantan bila relevan): litter size, jarak beranak, angka kebuntingan, survival anak pra-sapih; dilengkapi ultrasonografi kebuntingan dan/atau indikator fisiologis bila memungkinkan.
+2. **Kovariat reproduksi:** umur induk, paritas, tipe kelahiran, musim kawin, manajemen pakan/kandang.
+3. **Genomik reproduksi:** GWAS/asosiasi sifat reproduksi menggunakan genotip Tahun 1 (+ sampel tambahan bila perlu); anotasi jalur reproduksi/fertilitas.
+4. **Metabolomik tahap II:** profil metabolom terkait status reproduksi (mis. kebuntingan vs non-kebuntingan / performa litter kontras); korelasi metabolit–sifat reproduksi.
+5. **Model seleksi reproduksi:** indeks/genomic breeding value sederhana untuk sifat reproduksi; integrasi awal dengan marka Teropong–produksi Tahun 1.
+6. **Keluaran T2:** model seleksi reproduksi; KTI2; pengajuan/pendaftaran KI.
 
-#### D. Analisis genomik
-1. Ekstraksi DNA dan QC (konsentrasi, kemurnian, integritas).
-2. Genotyping menggunakan SNP chip densitas menengah–tinggi dan/atau low-coverage WGS + imputation.
-3. QC genotip: call rate, MAF, HWE, relatedness, PCA/struktur populasi.
-4. **GWAS:** model mixed linear (GRM/kinship) untuk sifat biner (Teropong) dan kuantitatif (bobot, morfometri, reproduksi); koreksi multiple testing (Bonferroni/FDR); estimasi heritabilitas SNP-based.
-5. **Signatures of selection:** FST antar kelompok fenotip, π-ratio, iHS, XP-EHH, dan analisis ROH untuk mendeteksi jejak seleksi terkait identitas galur/adaptasi.
-6. Anotasi gen kandidat (Ensembl/NCBI), enrichment jalur (melanogenesis, pertumbuhan, reproduksi).
-
-#### E. Analisis metabolomik
-1. Ekstraksi metabolit serum/plasma; LC-MS/MS untargeted (± targeted panel asam amino/lipid bila diperlukan).
-2. Proses data: peak picking, normalisasi, multivariate (PCA/OPLS-DA), univariat diferensial.
-3. Identifikasi metabolit dan pathway enrichment (KEGG/MetaboAnalyst).
-4. Korelasi metabolit dengan fenotip dan genotipe (mGWAS/mQTL pada subset bila kekuatan statistik memadai).
-
-#### F. Integrasi multi-omik dan model seleksi
-1. Network/correlation integration gen–metabolit–fenotip.
-2. Penyusunan **panel marka SNP** prioritas (teropong + produksi + reproduksi).
-3. Pengembangan model seleksi (indeks/genomic breeding value sederhana) dan simulasi respons seleksi.
-4. Validasi internal (cross-validation) dan validasi terbatas pada kohort independen tahun akhir.
-
-#### G. Hilirisasi dan diseminasi
-Penyusunan draf standar galur, FGD dengan mitra pemda/peternak, rekomendasi teknis penggaluran bibit, serta pengajuan KI dan publikasi.
+#### D. Tahun 3 — Integrasi multi-omik & penyusunan usulan galur
+1. **Integrasi:** network/korelasi gen–metabolit–fenotip lintas Teropong, produksi, dan reproduksi.
+2. **Panel marka final:** prioritisasi SNP/biomarker untuk identitas galur + merit ekonomi (produksi & reproduksi).
+3. **Validasi terbatas:** uji genotip panel pada sampel cadangan/kohort kecil; evaluasi konsistensi fenotip.
+4. **Standar galur:** finalisasi deskripsi fenotipik, ambang morfometri/produksi, kriteria reproduksi minimal, dan kriteria molekuler pendukung.
+5. **Naskah usulan galur:** penyusunan dokumen usulan penetapan galur Domba Temanggung (bersama DKPPP/DSL) siap diajukan ke otoritas terkait; FGD dan diseminasi.
+6. **Keluaran T3:** naskah usulan galur; KTI3 integratif; KI tambahan; paket data pendukung penetapan.
 
 ### 6.4 Analisis Statistik
 
-Analisis menggunakan R/PLINK/GCTA/GEMMA/VCFtools/plinkQC dan perangkat metabolomik standar. Model linier campuran memasukkan efek tetap (sex, age class, farm) dan efek random genetik aditif. Signifikansi ditetapkan setelah koreksi uji ganda. Reproducibility dijaga melalui skrip analisis berversi dan penyimpanan data primer sesuai wajib serah–wajib simpan BRIN.
+Analisis menggunakan R/PLINK/GCTA/GEMMA/VCFtools dan perangkat metabolomik standar. Model linier campuran memasukkan efek tetap (sex, age/parity class, farm) dan efek random genetik aditif. Signifikansi setelah koreksi uji ganda (Bonferroni/FDR). Reproducibility dijaga melalui skrip berversi dan wajib serah–wajib simpan data primer BRIN.
 
 ### 6.5 Manajemen Risiko
 
 | Risiko | Mitigasi |
 |---|---|
-| Heterogenitas manajemen peternak | Standardisasi protokol sampling; koreksi statistik farm/batch |
-| Ukuran efektif populasi kecil / relatedness tinggi | Desain sampling menyebar; model kinship; power simulation |
-| Variasi metabolom karena pakan | Puasa/standardisasi waktu sampling; kovariat diet |
-| Kegagalan genotyping | QC ketat; cadangan sampel; ulangan ekstraksi |
+| Heterogenitas manajemen peternak | Standardisasi protokol; koreksi statistik farm/batch |
+| Kelengkapan data reproduksi rendah | Form pencatatan mitra sejak T1; fokus betina paritas jelas di T2; USG pendukung |
+| Ukuran efektif/relatedness tinggi | Sampling menyebar; model kinship; power simulation |
+| Variasi metabolom karena pakan/fisiologi | Standardisasi waktu sampling; kovariat diet & status reproduksi |
+| Kesiapan dokumen usulan galur | FGD bertahap dengan pemda sejak T2; template naskah mengikuti ketentuan penetapan rumpun/galur |
 
 ## 7. Jangka Waktu Pelaksanaan Riset
 
-Riset diusulkan selama **3 (tiga) tahun periode pendanaan** (2026–2028), dengan evaluasi tahunan sesuai ketentuan RIIM Kompetisi.
+Riset diusulkan selama **3 (tiga) tahun periode pendanaan** (2026–2028), dengan evaluasi tahunan sesuai ketentuan RIIM Kompetisi. Tahun 3 diarahkan agar hasil riset **siap digunakan untuk usulan galur**.
 
 ## 8. Keluaran dan Indikator Kinerja
 
 ### Indikator Kinerja Kegiatan
 
-**Tahun 1 (2026)**
+**Tahun 1 (2026) — Fenotip Teropong & Produksi**
 
 | No | Luaran | Status | Jumlah | Target | Deskripsi |
 |---|---|---|---|---|---|
-| 1 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | Manuskrip karakterisasi fenotip/struktur populasi Domba Temanggung |
-| 2 | Paten sederhana / KI basis data marka | draft | 1 | 100% | Draft spesifikasi panel marka/protokol fenotip–genomik |
-| 3 | Dataset fenotip–sampel | tersedia | 1 | 100% | Database fenotip ≥100 ekor + biobank DNA/serum |
-| 4 | Model/standar fenotip galur | draft | 1 | 100% | Draf standar fenotip Teropong–produksi–reproduksi |
+| 1 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | KTI genomik/metabolomik fenotip Teropong dan sifat produksi |
+| 2 | Paten sederhana / KI | draft | 1 | 100% | Draft panel marka/protokol Teropong–produksi |
+| 3 | Model/standar | draft | 1 | 100% | Standar fenotip identitas Teropong + kriteria produksi |
+| 4 | Dataset pendukung | tersedia | 1 | 100% | Database fenotip Teropong–produksi ≥100 ekor + biobank |
 
-**Tahun 2 (2027)**
+**Tahun 2 (2027) — Sifat Reproduksi**
 
 | No | Luaran | Status | Jumlah | Target | Deskripsi |
 |---|---|---|---|---|---|
 | 1 | Publikasi jurnal internasional minimal Q3 | accepted | 1 | 100% | KTI Tahun 1 berstatus accepted |
-| 2 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | KTI baru hasil GWAS/selection signatures |
-| 3 | Paten sederhana | terdaftar | 1 | 100% | Panel marka SNP terkait fenotip Teropong/produksi |
-| 4 | Profil metabolom diferensial | laporan | 1 | 100% | Identifikasi biomarker kandidat |
+| 2 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | KTI baru genomik/metabolomik sifat reproduksi |
+| 3 | Paten sederhana | terdaftar | 1 | 100% | KI marka/protokol reproduksi atau panel terintegrasi tahap I |
+| 4 | Model seleksi reproduksi | tersedia | 1 | 100% | Model/indeks seleksi sifat reproduksi berbasis omik |
 
-**Tahun 3 (2028)**
+**Tahun 3 (2028) — Usulan Galur**
 
 | No | Luaran | Status | Jumlah | Target | Deskripsi |
 |---|---|---|---|---|---|
 | 1 | Publikasi jurnal internasional minimal Q3 | published | 1 | 100% | Minimal satu KTI published (akumulasi) |
 | 2 | Publikasi jurnal internasional minimal Q3 | accepted | 1 | 100% | KTI periode sebelumnya accepted |
-| 3 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | KTI integrasi multi-omik/model seleksi |
-| 4 | KI tambahan | terdaftar | 1 | 100% | Protokol/model penggaluran atau hak cipta perangkat seleksi |
-| 5 | Implementasi hasil riset | rekomendasi teknis | 1 | 100% | Dokumen penggaluran bibit unggul untuk mitra/pemda |
+| 3 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | KTI integrasi multi-omik & basis penggaluran |
+| 4 | KI tambahan | terdaftar | 1 | 100% | Protokol/standar penggaluran Domba Temanggung |
+| 5 | Implementasi | naskah usulan galur | 1 | 100% | Dokumen usulan galur siap diajukan bersama mitra ke otoritas terkait |
 
 ## 9. Jadwal Kegiatan Riset
 
 | No | Kegiatan/Aktivitas | Uraian Kegiatan | Waktu Pelaksanaan | Keterangan |
 |---|---|---|---|---|
-| 1 | Persiapan & etik | Klirens etik, MoU mitra, SOP fenotip/sampling | T1 Bln 1–2 | |
-| 2 | Survei & sampling fenotip | Inventarisasi populasi, pengukuran, foto standar | T1 Bln 2–6 | Mitra DKPPP/DSL |
-| 3 | Koleksi sampel biologis | Darah/serum, kurasi biobank | T1 Bln 3–7 | |
-| 4 | Ekstraksi DNA & genotyping | QC DNA, genotyping/WGS tahap I | T1 Bln 5–12 | |
-| 5 | Metabolomik tahap I | Subset sampel, LC-MS | T1 Bln 8–12 | |
-| 6 | Analisis struktur populasi | PCA, relatedness, diversity | T1 Bln 9–12 | Manuskrip 1 |
-| 7 | GWAS fenotip Teropong | Case–control GWAS | T2 Bln 1–4 | |
-| 8 | Signatures of selection | FST, iHS, XP-EHH, ROH | T2 Bln 2–6 | |
-| 9 | GWAS produksi & reproduksi | Sifat kuantitatif | T2 Bln 3–8 | |
-| 10 | Metabolomik tahap II & integrasi | Diferensial + korelasi multi-omik | T2 Bln 4–10 | |
-| 11 | Penyusunan panel marka | Prioritisasi SNP/biomarker | T2 Bln 8–12 | Pengajuan KI |
-| 12 | Validasi marka & model seleksi | Validasi internal/terbatas | T3 Bln 1–6 | |
-| 13 | Finalisasi standar galur | FGD mitra, rekomendasi teknis | T3 Bln 4–9 | Hilirisasi |
-| 14 | Publikasi & diseminasi | Manuskrip, seminar, laporan | T1–T3 | Continuous |
-| 15 | Monev & pelaporan | Laporan kemajuan/akhir | Tiap tahun | eRispro |
+| 1 | Persiapan & etik | Klirens etik, MoU mitra, SOP | T1 Bln 1–2 | Lintas tahun |
+| 2 | Fenotip Teropong & produksi | Skor Teropong, bobot, morfometri, foto standar | T1 Bln 2–7 | Fokus T1 |
+| 3 | Sampling DNA/serum T1 | Koleksi & biobank | T1 Bln 3–7 | |
+| 4 | Genotyping & QC | SNP chip/lcWGS tahap inti | T1 Bln 5–10 | |
+| 5 | GWAS & selection signatures Teropong–produksi | Case–control + kuantitatif produksi | T1 Bln 8–12 | |
+| 6 | Metabolomik T1 | Subset Teropong/produksi | T1 Bln 8–12 | |
+| 7 | Standar & KTI1 / draft KI | Penyusunan luaran T1 | T1 Bln 10–12 | |
+| 8 | Pencatatan sifat reproduksi | Litter size, interval beranak, kebuntingan, survival; USG | T2 Bln 1–8 | Fokus T2 |
+| 9 | GWAS/asosiasi reproduksi | Analisis genomik sifat reproduksi | T2 Bln 3–9 | |
+| 10 | Metabolomik T2 reproduksi | Profil metabolom status reproduksi | T2 Bln 4–10 | |
+| 11 | Model seleksi reproduksi & KI | Indeks seleksi; pendaftaran KI | T2 Bln 8–12 | |
+| 12 | Integrasi multi-omik | Gabungan Teropong–produksi–reproduksi | T3 Bln 1–5 | Fokus T3 |
+| 13 | Validasi panel marka | Uji terbatas panel final | T3 Bln 3–7 | |
+| 14 | Naskah usulan galur | Standar galur + dokumen usulan + FGD mitra | T3 Bln 4–10 | Siap diajukan |
+| 15 | Publikasi & diseminasi | Manuskrip, seminar, laporan | T1–T3 | Continuous |
+| 16 | Monev & pelaporan | Laporan kemajuan/akhir | Tiap tahun | eRispro |
 
 ## 10. Anggaran per Tahun / Periode Pendanaan (Ringkasan RAB)
 
-Pendanaan mengikuti prinsip kesetaraan output: **1 keluaran ≈ Rp150–200 juta**. Paket tahunan **1 KTI + 1 KI + 1 model/implementasi** dianggarkan pada rentang **Rp300–450 juta/tahun**.
+Pendanaan mengikuti prinsip kesetaraan output: **1 keluaran ≈ Rp150–200 juta**. Paket tahunan **1 KTI + 1 KI + 1 model/implementasi** dianggarkan pada rentang **Rp300–450 juta/tahun**. Alokasi non-personil menyesuaikan fokus sifat tiap tahun.
 
 Proporsi mengikuti Juknis RIIM: **Biaya Langsung Personil ≤25%**, **Biaya Langsung Non-Personil ≥70%**, **Biaya Tidak Langsung ≤5%**.
 
 ### Mapping keluaran–pendanaan
 
-| Tahun | Keluaran utama (dihitung untuk kesetaraan dana) | Estimasi kesetaraan | Usulan |
+| Tahun | Fokus | Keluaran utama (dihitung untuk kesetaraan dana) | Usulan |
 |---|---|---|---:|
-| 1 | 1 KTI *under review* + 1 draft KI + 1 draft model/standar fenotip | 3 × (150–200 jt) → 300–450 jt | **Rp400.000.000** |
-| 2 | 1 KTI baru *under review* + 1 KI terdaftar + 1 model seleksi | 3 × (150–200 jt) → 300–450 jt | **Rp450.000.000** |
-| 3 | 1 KTI baru *under review* + 1 KI tambahan + 1 implementasi/rekomendasi teknis | 3 × (150–200 jt) → 300–450 jt | **Rp400.000.000** |
-| | **Total** | | **Rp1.250.000.000** |
+| 1 | Teropong & produksi | 1 KTI *under review* + 1 draft KI + 1 model/standar Teropong–produksi | **Rp400.000.000** |
+| 2 | Reproduksi | 1 KTI baru *under review* + 1 KI terdaftar + 1 model seleksi reproduksi | **Rp450.000.000** |
+| 3 | Usulan galur | 1 KTI baru *under review* + 1 KI tambahan + 1 naskah usulan galur (implementasi) | **Rp400.000.000** |
+| | | **Total** | **Rp1.250.000.000** |
 
 > Catatan: status *accepted/published* KTI tahun sebelumnya merupakan akumulasi kewajiban RIIM dan tidak dihitung sebagai keluaran baru untuk penambahan plafon dana tahunan.
 
@@ -342,25 +330,29 @@ Proporsi mengikuti Juknis RIIM: **Biaya Langsung Personil ≤25%**, **Biaya Lang
 | C. Biaya Tidak Langsung | 20.000.000 | 22.000.000 | 20.000.000 | 62.000.000 |
 | **Total** | **400.000.000** | **450.000.000** | **400.000.000** | **1.250.000.000** |
 
-### Rincian indikatif Tahun 1 (contoh struktur sesuai format RAB)
+### Arah belanja non-personil per fokus tahun
 
-**A. Biaya Langsung Personil (≤25%)**  
-- Ketua (≤12 OB × Rp3.600.000)  
-- Anggota (2 orang, OB disesuaikan agar subtotal personil ≤ Rp90.000.000)  
-- Asisten/administrator hanya jika masih dalam batas proporsi  
+**Tahun 1 (Teropong & produksi) — Non-personil Rp290.000.000**
+1. Bahan sampling + ekstraksi DNA/QC untuk kohort inti.
+2. Jasa genotyping (±100–120 sampel) untuk GWAS/selection signatures Teropong–produksi.
+3. Metabolomik subset terkait identitas/produksi (±25–30 sampel).
+4. Honor lapangan pengukuran fenotip Teropong & morfometri; perjalanan dinas; penyusunan standar/KTI/draft KI.
 
-**B. Biaya Langsung Non-Personil (≥70%)**
-1. **Belanja bahan:** kit ekstraksi DNA, reagen QC, tabung darah/serum, cryovial, bahan habis laboratorium.
-2. **Jasa analisis:** genotyping densitas menengah / lcWGS bertahap (±100–120 sampel T1), jasa LC-MS/MS metabolomik subset (±30 sampel).
-3. **Honor tenaga lapangan:** enumerasi fenotip & sampling di peternak.
-4. **Perjalanan dinas dalam negeri:** Temanggung–lokasi lab/institusi (sesuai SBM).
-5. **Publikasi/seminar/lisensi perangkat lunak analisis** (sesuai ketentuan).
-6. **Belanja modal ≤10%** hanya jika sangat diperlukan dan dicatat institusi.
+**Tahun 2 (Reproduksi) — Non-personil Rp328.000.000**
+1. Pencatatan reproduksi & jasa pendukung (USG kebuntingan/monitoring bila diperlukan).
+2. Genotyping tambahan/validasi subset betina produktif + analisis GWAS reproduksi.
+3. Metabolomik tahap II terkait status reproduksi (±20–25 sampel).
+4. Pengembangan model seleksi reproduksi; perjalanan; publikasi; pendaftaran KI.
 
-**C. Biaya Tidak Langsung (≤5%)**  
-Reviewer internal monev, perjalanan monev, konsumsi rapat monev sesuai SBM.
+**Tahun 3 (Usulan galur) — Non-personil Rp290.000.000**
+1. Validasi panel marka terbatas (genotyping panel final).
+2. Integrasi data multi-omik dan finalisasi standar galur.
+3. FGD/penyusunan **naskah usulan galur** bersama mitra; diseminasi.
+4. Publikasi integratif; KI tambahan; kurasi data akhir untuk lampiran usulan.
 
-> Catatan: RAB detail per item (volume, frekuensi, harga satuan, pemisahan pokok–pajak) dilampirkan pada lembar RAB resmi sistem Pendanaan Risnov, menyesuaikan status PKP/Non-PKP institusi. Skala genotyping/metabolomik dipahas per tahun agar tetap sejalan dengan plafon berbasis output.
+**Personil (≤25%)** dan **tidak langsung (≤5%)** mengikuti pola ringkasan tabel di atas (insentif ketua/anggota sesuai OB yang tidak melebihi proporsi; monev internal sesuai SBM).
+
+> RAB detail per item (volume, frekuensi, harga satuan, pemisahan pokok–pajak) dilampirkan pada lembar RAB resmi sistem Pendanaan Risnov.
 
 ## 11. Daftar Pustaka
 
@@ -431,30 +423,22 @@ Dokumen berikut perlu dilengkapi pengusul sebelum unggah ke https://pendanaan-ri
 
 ```text
 Populasi Domba Temanggung
-   │
-   ├─ Fenotip Teropong vs Non-Teropong
-   ├─ Sifat produksi (bobot, morfometri)
-   └─ Reproduksi
-           │
-           ▼
-   Sampling DNA + Serum
-           │
-     ┌─────┴─────┐
-     ▼           ▼
- Genomik      Metabolomik
- (GWAS +      (LC-MS,
- selection     biomarker)
- signatures)
-     └─────┬─────┘
-           ▼
-  Integrasi Multi-Omik
-           │
-           ▼
- Panel Marka + Model Seleksi
-           │
-           ▼
- Penggaluran Bibit Unggul Domba Temanggung
-           │
-           ▼
- Kontribusi Ketahanan Pangan (protein hewani lokal)
+        │
+        ▼
+Tahun 1: Fenotip Teropong + Sifat Produksi
+   → GWAS, signatures of selection, metabolomik
+   → Standar identitas–produksi + draft marka
+        │
+        ▼
+Tahun 2: Sifat Reproduksi
+   → GWAS & metabolomik reproduksi
+   → Model seleksi reproduksi + KI
+        │
+        ▼
+Tahun 3: Integrasi Multi-Omik
+   → Panel marka final + standar galur
+   → NASKAH USULAN GALUR Domba Temanggung
+        │
+        ▼
+Ketahanan Pangan Nasional (bibit lokal unggul)
 ```

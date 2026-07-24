@@ -94,9 +94,9 @@ add_para("Peran Mitra Riset\t: penyedia akses populasi ternak dan lahan uji lapa
 add_para("5. Anggota Periset", bold=True, justify=False)
 add_para("[Tabel anggota diisi: Nama | Institusi | No. HP/WA | Email]", justify=False)
 add_para("6. Keluaran (ringkas)", bold=True, justify=False)
-add_para("Tahun 1: 1 KTI jurnal internasional minimal Q3 under review; draft KI/paten sederhana; dataset fenotip–biobank; draft standar fenotip galur.", justify=False)
-add_para("Tahun 2: KTI T1 accepted + 1 KTI baru under review; paten sederhana terdaftar; profil metabolom diferensial.", justify=False)
-add_para("Tahun 3: minimal 1 KTI published + 1 accepted + 1 under review; KI tambahan terdaftar; rekomendasi teknis penggaluran bibit unggul.", justify=False)
+add_para("Tahun 1 (Teropong & produksi): 1 KTI under review; draft KI panel marka Teropong–produksi; model/standar identitas–produksi.", justify=False)
+add_para("Tahun 2 (Reproduksi): KTI T1 accepted + 1 KTI baru under review (reproduksi); KI terdaftar; model seleksi reproduksi.", justify=False)
+add_para("Tahun 3 (Usulan galur): minimal 1 KTI published + 1 accepted + 1 under review; KI tambahan; naskah usulan galur siap diajukan.", justify=False)
 add_para("7. Pendanaan", bold=True, justify=False)
 add_para("Tahun 1: Rp400.000.000; Tahun 2: Rp450.000.000; Tahun 3: Rp400.000.000; Total: Rp1.250.000.000 (dana pendamping Rp0). Disusun berbasis kesetaraan output: 1 keluaran ≈ Rp150–200 juta; paket 1 KTI + 1 KI + 1 model ≈ Rp300–450 juta/tahun.", justify=False)
 add_para("Dengan ini menyatakan bahwa proposal yang diajukan bersifat orisinil dan belum pernah memperoleh pendanaan dari lembaga/sumber dana lain, serta tidak mengandung plagiasi.")
@@ -119,13 +119,11 @@ add_para(
     "Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik "
     "maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung "
     "penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan genomik (GWAS dan signatures of selection) serta "
-    "metabolomik untuk mengarakterisasi fenotip Teropong, sifat produksi (bobot badan dan morfometri), serta reproduksi "
-    "Domba Temanggung sebagai basis penggaluran bibit unggul. Populasi studi dirancang case–control dan kuantitatif pada "
-    "Domba Temanggung di Kabupaten Temanggung dengan mitra DKPPP dan komunitas peternak. Kegiatan meliputi standardisasi "
-    "fenotip, genotyping/whole-genome sequencing, asosiasi genom–fenotip, deteksi jejak seleksi, profil metabolom "
-    "serum/jaringan terkait, serta integrasi multi-omik untuk menghasilkan panel marka dan model seleksi. Luaran utama "
-    "mencakup publikasi jurnal internasional bereputasi, kekayaan intelektual (panel marka/paten sederhana), dan rekomendasi "
-    "teknis penggaluran yang dapat memperkuat penyediaan bibit lokal unggul dan mendukung ketahanan pangan berbasis protein hewani."
+    "metabolomik secara bertahap: Tahun 1 fokus fenotip Teropong dan sifat produksi; Tahun 2 fokus sifat reproduksi; "
+    "Tahun 3 integrasi multi-omik untuk menghasilkan standar dan naskah usulan galur. Populasi studi berada di Kabupaten "
+    "Temanggung bersama mitra DKPPP dan komunitas peternak. Luaran mencakup publikasi internasional bereputasi, kekayaan "
+    "intelektual, model seleksi per tahap, serta dokumen usulan galur yang siap diajukan untuk memperkuat bibit lokal unggul "
+    "dan ketahanan pangan nasional."
 )
 add_para("Kata kunci: Domba Temanggung; fenotip teropong; GWAS; signatures of selection; metabolomik; sifat produksi; reproduksi; penggaluran bibit; ketahanan pangan", bold=False)
 add_para("Keywords: Temanggung sheep; periocular black phenotype; GWAS; signatures of selection; metabolomics; production traits; reproduction; breed/line development; food security")
@@ -183,23 +181,20 @@ add_para("(1) Pertama kali mengintegrasikan genomik nuklear (GWAS + signatures o
 
 add_h("3.4 Tujuan dan Sasaran", 2)
 add_para("Tujuan umum: Menghasilkan basis saintifik genomik–metabolomik untuk penggaluran Domba Temanggung fenotip Teropong sebagai bibit unggul pendukung ketahanan pangan.")
-add_para("Tujuan khusus: (1) menetapkan standar fenotipik Teropong, sifat produksi, dan reproduksi; (2) mengidentifikasi lokus/kandidat gen terkait fenotip Teropong melalui GWAS dan signatures of selection; (3) memetakan asosiasi genomik sifat bobot badan, morfometri, dan reproduksi; (4) mengarakterisasi profil metabolom terkait kelompok fenotip/performa; (5) menyusun panel marka dan model seleksi multi-omik; (6) menyusun rekomendasi teknis penggaluran bersama mitra daerah.")
-add_para("Sasaran: tersedianya data primer fenotipik–genomik–metabolomik terkurasi; kandidat marka genetik dan biomarker metabolit; draf standar galur Teropong dan model seleksi bibit; serta meningkatnya kesiapan hilirisasi menuju penetapan galur/rumpun dan sistem perbibitan lokal.")
+add_para("Tujuan khusus bertahap: (1) Tahun 1 menetapkan standar dan basis genomik–metabolomik fenotip Teropong serta sifat produksi; (2) Tahun 2 memetakan basis genomik–metabolomik sifat reproduksi dan menyusun model seleksi reproduksi; (3) Tahun 3 mengintegrasikan paket sifat Teropong + produksi + reproduksi menjadi panel marka, standar galur, dan naskah usulan galur yang siap diajukan.")
+add_para("Sasaran: Tahun 1 tersedia database Teropong–produksi dan draf standar identitas–produksi; Tahun 2 tersedia parameter serta model seleksi reproduksi; Tahun 3 tersedia naskah usulan galur Domba Temanggung berbasis bukti multi-omik.")
 
 add_h("4. Kerangka Berpikir dan Nilai Strategis", 1)
 add_h("4.1 Kerangka Berpikir", 2)
 add_para(
-    "Riset bertolak dari kebutuhan membedakan dan mengembangkan galur Domba Temanggung Teropong secara ilmiah. Input berupa "
-    "populasi Teropong vs non-Teropong beserta data sifat produksi dan reproduksi diproses melalui standardisasi fenotip, "
-    "analisis genomik (struktur populasi, GWAS, signatures of selection: FST, π-ratio, iHS/XP-EHH, ROH), analisis metabolomik, "
-    "serta integrasi multi-omik (gen → metabolit → fenotip). Output berupa lokus kandidat, panel marka, biomarker, model seleksi, "
-    "dan rekomendasi penggaluran. Outcome yang diharapkan adalah penguatan sistem bibit lokal unggul yang meningkatkan "
-    "produktivitas peternak dan berkontribusi pada penyediaan protein hewani nasional."
+    "Riset disusun berjenjang menuju usulan galur: Tahun 1 mengolah fenotip Teropong dan sifat produksi melalui GWAS, "
+    "signatures of selection, dan metabolomik menjadi standar identitas–produksi; Tahun 2 memfokuskan pencatatan serta "
+    "analisis genomik–metabolomik sifat reproduksi menjadi model seleksi reproduksi; Tahun 3 mengintegrasikan ketiga paket "
+    "sifat menjadi panel marka final, standar galur, dan naskah usulan galur."
 )
 add_para(
     "Secara konseptual, fenotip Teropong berfungsi sebagai breed/line identity marker, sementara sifat produksi dan reproduksi "
-    "menjadi economic merit. Genomik menjelaskan heritabilitas dan lokus kunci; metabolomik menjelaskan status fisiologis/metabolik "
-    "yang relevan dengan performa. Integrasi keduanya mengurangi risiko seleksi hanya berbasis penampilan visual."
+    "menjadi economic merit. Integrasi bertahap memastikan pada akhir Tahun 3 bukti ilmiah sudah memadai untuk usulan galur."
 )
 add_h("4.2 Nilai Strategis", 2)
 add_para(
@@ -209,48 +204,45 @@ add_para(
 )
 
 add_h("5. Peta Jalan", 1)
-add_para("Durasi usulan: 3 tahun (2026–2028).")
-add_para("Tahun 1 — Fondasi fenotip & data omik: standar fenotip; koleksi sampel ≥100 ekor; genotyping tahap I; metabolom subset; draft manuskrip 1; draft KI.")
-add_para("Tahun 2 — Analisis genomik–metabolomik mendalam: hasil GWAS & selection signatures; profil metabolom diferensial; model asosiasi awal; KTI T1 accepted; KTI baru under review; paten sederhana terdaftar.")
-add_para("Tahun 3 — Integrasi, validasi & hilirisasi: panel marka tervalidasi; model seleksi multi-omik; rekomendasi penggaluran; publikasi published; KI tambahan; diseminasi mitra.")
-add_para("Produk akhir: Sistem penggaluran bibit Domba Temanggung berbasis genomik–metabolomik (standar fenotip + panel marka + model seleksi + rekomendasi kebijakan/teknis) untuk mendukung ketahanan pangan.")
+add_para("Durasi usulan: 3 tahun (2026–2028), dengan fokus sifat berjenjang.")
+add_para("Tahun 1 — Fenotip Teropong & sifat produksi: standardisasi skor Teropong; bobot & morfometri; genotyping; GWAS + signatures of selection; metabolomik identitas/produksi; KTI1 under review; draft KI; model identitas–produksi.")
+add_para("Tahun 2 — Sifat reproduksi: pencatatan litter size, interval beranak, kebuntingan, survival; GWAS & metabolomik reproduksi; model seleksi reproduksi; KTI2 under review; KI terdaftar.")
+add_para("Tahun 3 — Integrasi & usulan galur: integrasi multi-omik; validasi panel marka; finalisasi standar galur; naskah usulan galur siap diajukan; KTI3 under review; KI tambahan.")
+add_para("Produk akhir: Naskah usulan galur Domba Temanggung berbasis bukti genomik–metabolomik pada fenotip Teropong, sifat produksi, dan reproduksi.")
 
 add_h("6. Metodologi", 1)
 add_h("6.1 Desain Riset", 2)
-add_para("Desain kombinasi case–control untuk fenotip Teropong vs non-Teropong; asosiasi kuantitatif untuk bobot badan, morfometri, dan parameter reproduksi; serta multi-omik integratif (genomik + metabolomik).")
+add_para("Desain bertahap: Tahun 1 case–control Teropong vs non-Teropong dan kuantitatif produksi; Tahun 2 kuantitatif reproduksi; Tahun 3 integrasi multi-omik untuk standar dan usulan galur.")
 add_h("6.2 Lokasi dan Populasi", 2)
-add_para("Lokasi: Kabupaten Temanggung, Jawa Tengah. Mitra: DKPPP Temanggung dan komunitas DSL/peternak. Target sampel genomik 100–150 ekor, seimbang Teropong : non-Teropong, dengan penambahan bertahap sesuai tahun pendanaan. Subset metabolomik 30–50 ekor terpilih berdasarkan kontras fenotip/performa, distandardisasi sampling.")
+add_para("Lokasi: Kabupaten Temanggung. Mitra: DKPPP dan DSL. Genomik kumulatif 100–150 ekor (T1 genotyping inti ±100–120 ekor; T2 pendalaman betina produktif; T3 validasi panel terbatas). Metabolomik 30–50 ekor total (T1 Teropong/produksi; T2 status reproduksi).")
 add_h("6.3 Tahapan Pekerjaan", 2)
-add_para("A. Klirens etik dan perizinan sebelum sampling hewan sesuai Peraturan BRIN.")
-add_para("B. Standardisasi fenotip: skor Teropong (kehadiran/intensitas/simetri lingkar hitam periokular + foto standar); sifat produksi (bobot badan dan morfometri: tinggi pundak, panjang badan, lingkar dada, dll.); reproduksi (litter size, jarak beranak, angka kebuntingan, survival anak, dan/atau indikator fisiologis terkait); kovariat umur, jenis kelamin, tipe kelahiran, lokasi/peternak, manajemen.")
-add_para("C. Sampling biologis: darah EDTA untuk DNA; serum/plasma untuk metabolomik; subset jaringan/swab kulit periokular opsional; cold-chain dan kurasi DMP.")
-add_para("D. Analisis genomik: ekstraksi DNA & QC; genotyping SNP chip densitas menengah–tinggi dan/atau low-coverage WGS + imputation; QC genotip; GWAS model mixed linear (GRM/kinship) untuk sifat biner dan kuantitatif; signatures of selection (FST, π-ratio, iHS, XP-EHH, ROH); anotasi gen kandidat dan enrichment jalur.")
-add_para("E. Analisis metabolomik: LC-MS/MS untargeted (± targeted); PCA/OPLS-DA; identifikasi metabolit dan pathway enrichment; korelasi dengan fenotip/genotipe (mGWAS/mQTL pada subset bila memadai).")
-add_para("F. Integrasi multi-omik: network gen–metabolit–fenotip; panel marka SNP prioritas; model seleksi/indeks genomic breeding value sederhana; validasi internal dan validasi terbatas tahun akhir.")
-add_para("G. Hilirisasi: draf standar galur, FGD mitra, rekomendasi teknis, pengajuan KI, dan publikasi.")
+add_para("A. Persiapan: klirens etik, MoU mitra, SOP, DMP.")
+add_para("B. Tahun 1 (Teropong & produksi): skor Teropong; bobot & morfometri; sampling DNA/serum; genotyping; GWAS dan signatures of selection Teropong–produksi; metabolomik tahap I; draf standar identitas–produksi, KTI1, draft KI.")
+add_para("C. Tahun 2 (Reproduksi): pencatatan litter size, jarak beranak, kebuntingan, survival (+ USG bila memungkinkan); GWAS reproduksi; metabolomik tahap II; model seleksi reproduksi; KTI2 dan pendaftaran KI.")
+add_para("D. Tahun 3 (Usulan galur): integrasi gen–metabolit–fenotip lintas sifat; panel marka final; validasi terbatas; finalisasi standar galur; penyusunan naskah usulan galur bersama mitra; KTI3 dan KI tambahan.")
 add_h("6.4 Analisis Statistik dan Manajemen Risiko", 2)
-add_para("Analisis menggunakan R/PLINK/GCTA/GEMMA/VCFtools dan perangkat metabolomik standar. Model linier campuran memasukkan efek tetap (sex, age class, farm) dan efek random genetik aditif. Mitigasi risiko mencakup standardisasi protokol sampling, koreksi farm/batch, desain sampling menyebar, power simulation, serta standardisasi waktu sampling metabolom.")
+add_para("Analisis menggunakan R/PLINK/GCTA/GEMMA/VCFtools dan perangkat metabolomik standar. Model linier campuran memasukkan efek tetap (sex, age/parity class, farm) dan efek random genetik aditif. Mitigasi mencakup form pencatatan reproduksi sejak T1, sampling menyebar, standardisasi waktu sampling metabolom, serta FGD bertahap dengan pemda sejak T2 untuk kesiapan naskah usulan galur.")
 
 add_h("7. Jangka Waktu Pelaksanaan Riset", 1)
-add_para("Riset diusulkan selama 3 (tiga) tahun periode pendanaan (2026–2028), dengan evaluasi tahunan sesuai ketentuan RIIM Kompetisi.")
+add_para("Riset diusulkan selama 3 (tiga) tahun periode pendanaan (2026–2028). Tahun 3 diarahkan agar hasil riset siap digunakan untuk usulan galur.")
 
 add_h("8. Keluaran dan Indikator Kinerja", 1)
-add_para("Tahun 1: 1 publikasi minimal Q3 under review; draft paten sederhana/KI; database fenotip ≥100 ekor + biobank; draft standar fenotip galur.")
-add_para("Tahun 2: 1 KTI accepted (akumulasi) + 1 KTI baru under review; paten sederhana terdaftar; laporan profil metabolom diferensial.")
-add_para("Tahun 3: minimal 1 KTI published + 1 accepted + 1 under review; KI tambahan terdaftar; dokumen rekomendasi teknis penggaluran bibit unggul untuk mitra/pemda.")
+add_para("Tahun 1 (Teropong & produksi): 1 KTI under review; draft KI panel Teropong–produksi; model/standar identitas–produksi; database ≥100 ekor + biobank.")
+add_para("Tahun 2 (Reproduksi): 1 KTI accepted (akumulasi) + 1 KTI baru under review; KI terdaftar; model seleksi reproduksi.")
+add_para("Tahun 3 (Usulan galur): minimal 1 KTI published + 1 accepted + 1 under review; KI tambahan terdaftar; naskah usulan galur siap diajukan bersama mitra ke otoritas terkait.")
 
 add_h("9. Jadwal Kegiatan Riset", 1)
-add_para("Tahun 1: persiapan & etik; survei & sampling fenotip; koleksi sampel; ekstraksi DNA & genotyping; metabolomik tahap I; analisis struktur populasi dan manuskrip 1.")
-add_para("Tahun 2: GWAS fenotip Teropong; signatures of selection; GWAS produksi & reproduksi; metabolomik tahap II & integrasi; penyusunan panel marka dan pengajuan KI.")
-add_para("Tahun 3: validasi marka & model seleksi; finalisasi standar galur dan FGD mitra; publikasi, diseminasi, monev, dan pelaporan.")
+add_para("Tahun 1: persiapan & etik; fenotip Teropong & produksi; sampling; genotyping; GWAS/selection signatures Teropong–produksi; metabolomik T1; standar & KTI1/draft KI.")
+add_para("Tahun 2: pencatatan sifat reproduksi; GWAS reproduksi; metabolomik T2; model seleksi reproduksi; KTI2 & pendaftaran KI.")
+add_para("Tahun 3: integrasi multi-omik; validasi panel marka; penyusunan naskah usulan galur & FGD mitra; publikasi, diseminasi, monev.")
 
 add_h("10. Anggaran per Tahun (Ringkasan RAB)", 1)
-add_para("Pendanaan mengikuti prinsip kesetaraan output: 1 keluaran ≈ Rp150–200 juta. Paket tahunan 1 KTI + 1 KI + 1 model/implementasi dianggarkan pada rentang Rp300–450 juta/tahun.")
-add_para("Proporsi mengikuti Juknis RIIM: Biaya Langsung Personil ≤25%; Biaya Langsung Non-Personil ≥70%; Biaya Tidak Langsung ≤5%.")
-add_para("Tahun 1 Rp400.000.000 (Personil 90 jt; Non-personil 290 jt; Tidak langsung 20 jt) untuk 1 KTI under review + 1 draft KI + 1 draft model.")
-add_para("Tahun 2 Rp450.000.000 (Personil 100 jt; Non-personil 328 jt; Tidak langsung 22 jt) untuk 1 KTI baru under review + 1 KI terdaftar + 1 model seleksi.")
-add_para("Tahun 3 Rp400.000.000 (Personil 90 jt; Non-personil 290 jt; Tidak langsung 20 jt) untuk 1 KTI baru under review + 1 KI tambahan + 1 implementasi/rekomendasi teknis.")
-add_para("Total usulan Rp1.250.000.000. Status accepted/published KTI tahun sebelumnya merupakan akumulasi kewajiban RIIM dan tidak dihitung sebagai keluaran baru untuk penambahan plafon dana. RAB detail per item dilampirkan pada lembar RAB resmi sistem Pendanaan Risnov, termasuk pemisahan harga pokok dan pajak sesuai status PKP/Non-PKP institusi.")
+add_para("Pendanaan berbasis kesetaraan output: 1 keluaran ≈ Rp150–200 juta; paket 1 KTI + 1 KI + 1 model/implementasi ≈ Rp300–450 juta/tahun. Belanja non-personil mengikuti fokus sifat tiap tahun.")
+add_para("Proporsi Juknis RIIM: Personil ≤25%; Non-personil ≥70%; Tidak langsung ≤5%.")
+add_para("Tahun 1 Rp400.000.000 (Personil 90 jt; Non-personil 290 jt; Tidak langsung 20 jt) — genotyping/fenotip Teropong–produksi; metabolomik T1; KTI + draft KI + model identitas–produksi.")
+add_para("Tahun 2 Rp450.000.000 (Personil 100 jt; Non-personil 328 jt; Tidak langsung 22 jt) — pencatatan/USG reproduksi; GWAS & metabolomik reproduksi; KTI + KI terdaftar + model seleksi reproduksi.")
+add_para("Tahun 3 Rp400.000.000 (Personil 90 jt; Non-personil 290 jt; Tidak langsung 20 jt) — validasi panel; standar galur; naskah usulan galur; KTI + KI tambahan + implementasi usulan galur.")
+add_para("Total usulan Rp1.250.000.000. RAB detail per item dilampirkan pada lembar RAB resmi sistem Pendanaan Risnov.")
 
 add_h("11. Daftar Pustaka", 1)
 refs = [
