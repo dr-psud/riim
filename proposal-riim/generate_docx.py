@@ -134,20 +134,28 @@ add_para(
     "Ketahanan pangan nasional menuntut peningkatan ketersediaan protein hewani yang berkelanjutan, efisien, dan berbasis "
     "sumberdaya genetik lokal. Domba merupakan komoditas strategis bagi peternak rakyat karena siklus produksi relatif cepat, "
     "modal relatif terjangkau, serta adaptif pada sistem pemeliharaan ekstensif–semi intensif. Di Kabupaten Temanggung, "
-    "Domba Temanggung (sering disebut Domba Teropong) memiliki ciri khas pola bulu hitam di sekitar mata menyerupai "
-    "kacamata/teropong, disertai karakter morfologi lokal lain (ekor tipis berbentuk V/ngotes, tanduk melengkung, telinga "
-    "semi menggantung). Populasi diperkirakan sekitar 20.000 ekor dan menjadi identitas peternakan daerah, termasuk melalui "
-    "komunitas Domba Seni Lokal (DSL). Pemerintah daerah telah menginisiasi pengajuan penetapan sebagai rumpun lokal asli "
-    "untuk memperkuat legalitas dan standar genetik."
+    "Domba Temanggung menjadi identitas peternakan daerah dengan populasi diperkirakan sekitar 20.000 ekor, termasuk yang "
+    "dipelihara komunitas Domba Seni Lokal (DSL)."
 )
 add_para(
-    "Penggaluran berbasis fenotip Teropong memiliki nilai strategis ganda: (1) menjaga kemurnian dan identitas genetik lokal; "
-    "serta (2) membangun sistem seleksi bibit yang lebih terukur apabila fenotip identitas tersebut dapat dikaitkan dengan "
-    "keunggulan produksi dan reproduksi. Namun, informasi genetik Domba Temanggung masih sangat terbatas. Studi awal berbasis "
-    "mtDNA cytochrome b menunjukkan keragaman maternal rendah dan campuran haplogroup A/B, tetapi belum dapat dijadikan bukti "
-    "diferensiasi genomik nuklear antar fenotip Teropong dan non-Teropong (Ridlo et al., 2026). Studi pada domba lokal Jawa "
-    "umumnya masih fokus pada keragaman mtDNA antarrumpun (Ibrahim et al., 2021; Ibrahim et al., 2023), belum pada asosiasi "
-    "genom–fenotip untuk penggaluran."
+    "Saat ini, Domba Temanggung sedang dalam proses pengusulan sebagai rumpun lokal kepada otoritas terkait untuk memperkuat "
+    "legalitas dan standar genetik plasma nutfah daerah (DKPPP Temanggung, 2026). Dalam deskripsi populasinya, terdapat "
+    "diferensiasi fenotip Teropong dan non-Teropong. Domba Temanggung fenotip Teropong dicirikan oleh warna bulu hitam "
+    "melingkar di sekitar mata sehingga tampak seperti memakai kacamata/teropong, yang sering disertai karakter morfologi "
+    "lokal lain (ekor tipis berbentuk V/ngotes, tanduk melengkung, telinga semi menggantung). Sebaliknya, individu non-Teropong "
+    "tidak menampilkan pola pigmen periokular tersebut secara khas. Diferensiasi ini penting karena menjadi penanda identitas "
+    "visual yang membedakan galur potensial di dalam populasi Domba Temanggung."
+)
+add_para(
+    "Upaya penggaluran khusus terhadap Domba Temanggung yang memiliki fenotip Teropong diperlukan agar identitas genetik lokal "
+    "tidak tercampur secara tidak terarah dengan individu non-Teropong, sekaligus membangun sistem seleksi bibit yang terukur "
+    "pada sifat produksi dan reproduksi. Penggaluran berbasis fenotip Teropong juga berpotensi meningkatkan nilai jual/ekonomi "
+    "ternak dan bibit di tingkat peternak, karena keunikan fenotip yang terstandar dapat memperkuat daya saing pasar, "
+    "diferensiasi produk lokal, dan premium harga bibit unggul. Namun, informasi genetik Domba Temanggung masih sangat terbatas. "
+    "Studi awal berbasis mtDNA cytochrome b menunjukkan keragaman maternal rendah dan campuran haplogroup A/B, tetapi belum "
+    "dapat dijadikan bukti diferensiasi genomik nuklear antar fenotip Teropong dan non-Teropong (Ridlo et al., 2026). Studi "
+    "pada domba lokal Jawa umumnya masih fokus pada keragaman mtDNA antarrumpun (Ibrahim et al., 2021; Ibrahim et al., 2023), "
+    "belum pada asosiasi genom–fenotip untuk penggaluran."
 )
 add_para(
     "Di tingkat global, warna bulu/pola pigmen pada domba telah berhasil diurai melalui GWAS dan selective sweep, dengan gen "
@@ -200,7 +208,8 @@ add_h("4.2 Nilai Strategis", 2)
 add_para(
     "Nilai strategis meliputi: penguatan kedaulatan pangan berbasis plasma nutfah lokal; konservasi sekaligus pemanfaatan ekonomi "
     "galur lokal; dukungan evidence-based policy bagi penetapan galur/rumpun; hilirisasi panel marka dan protokol seleksi; serta "
-    "peningkatan daya saing peternak rakyat Temanggung melalui bibit bermutu dan identitas produk lokal."
+    "peningkatan nilai jual/ekonomi bibit dan ternak Domba Temanggung fenotip Teropong melalui diferensiasi produk lokal dan "
+    "premium harga bibit unggul."
 )
 
 add_h("5. Peta Jalan", 1)
