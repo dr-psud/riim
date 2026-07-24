@@ -1,7 +1,7 @@
 # RAB RINGKAS PROPOSAL RIIM — Domba Temanggung
 
 **Tema:** Kedaulatan Pangan  
-**Judul:** Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domba Temanggung sebagai Basis Penggaluran Bibit Unggul untuk Ketahanan Pangan  
+**Judul:** Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional  
 **Total waktu pendanaan:** 3 tahun  
 **Total usulan:** **Rp1.250.000.000**
 

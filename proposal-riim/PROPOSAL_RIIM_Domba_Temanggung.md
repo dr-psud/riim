@@ -4,7 +4,7 @@
 Kedaulatan Pangan
 
 **JUDUL**  
-Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domba Temanggung sebagai Basis Penggaluran Bibit Unggul untuk Ketahanan Pangan
+Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional
 
 **KETUA:** *[Nama Ketua Periset]*  
 **ANGGOTA:**  
@@ -26,7 +26,7 @@ Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domb
 | No | Uraian | Keterangan |
 |---|---|---|
 | 1 | Tema | Kedaulatan Pangan |
-| 2 | Judul Proposal | Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domba Temanggung sebagai Basis Penggaluran Bibit Unggul untuk Ketahanan Pangan |
+| 2 | Judul Proposal | Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional |
 
 **3. Ketua Periset**
 
@@ -91,15 +91,15 @@ Dengan ini menyatakan bahwa proposal yang diajukan bersifat orisinil dan belum p
 
 ## 1. Judul Riset
 
-**Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domba Temanggung sebagai Basis Penggaluran Bibit Unggul untuk Ketahanan Pangan**
+**Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional**
 
 ## 2. Abstrak
 
-Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah dengan ciri khas fenotip *teropong* (warna bulu hitam melingkar di sekitar mata), yang saat ini diusulkan sebagai identitas galur/rumpun lokal unggul. Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan **genomik** (GWAS dan *signatures of selection*) serta **metabolomik** untuk mengarakterisasi fenotip Teropong, sifat produksi (bobot badan dan morfometri), serta proliferasi Domba Temanggung sebagai basis penggaluran bibit unggul. Populasi studi dirancang case–control dan kuantitatif pada Domba Temanggung di Kabupaten Temanggung dengan mitra DKPPP dan komunitas peternak. Kegiatan meliputi standardisasi fenotip, genotyping/whole-genome sequencing, asosiasi genom–fenotip, deteksi jejak seleksi, profil metabolom serum/jaringan terkait, serta integrasi multi-omik untuk menghasilkan panel marka dan model seleksi. Luaran utama mencakup publikasi jurnal internasional bereputasi, kekayaan intelektual (panel marka/paten sederhana), dan rekomendasi teknis penggaluran yang dapat memperkuat penyediaan bibit lokal unggul dan mendukung ketahanan pangan berbasis protein hewani.
+Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah dengan ciri khas fenotip *teropong* (warna bulu hitam melingkar di sekitar mata), yang saat ini diusulkan sebagai identitas galur/rumpun lokal unggul. Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan **genomik** (GWAS dan *signatures of selection*) serta **metabolomik** untuk mengarakterisasi fenotip Teropong, sifat produksi (bobot badan dan morfometri), serta reproduksi Domba Temanggung sebagai basis penggaluran bibit unggul. Populasi studi dirancang case–control dan kuantitatif pada Domba Temanggung di Kabupaten Temanggung dengan mitra DKPPP dan komunitas peternak. Kegiatan meliputi standardisasi fenotip, genotyping/whole-genome sequencing, asosiasi genom–fenotip, deteksi jejak seleksi, profil metabolom serum/jaringan terkait, serta integrasi multi-omik untuk menghasilkan panel marka dan model seleksi. Luaran utama mencakup publikasi jurnal internasional bereputasi, kekayaan intelektual (panel marka/paten sederhana), dan rekomendasi teknis penggaluran yang dapat memperkuat penyediaan bibit lokal unggul dan mendukung ketahanan pangan berbasis protein hewani.
 
-**Kata kunci:** Domba Temanggung; fenotip teropong; GWAS; *signatures of selection*; metabolomik; sifat produksi; proliferasi; penggaluran bibit; ketahanan pangan
+**Kata kunci:** Domba Temanggung; fenotip teropong; GWAS; *signatures of selection*; metabolomik; sifat produksi; reproduksi; penggaluran bibit; ketahanan pangan
 
-**Keywords:** Temanggung sheep; periocular black phenotype; GWAS; signatures of selection; metabolomics; production traits; proliferation; breed/line development; food security
+**Keywords:** Temanggung sheep; periocular black phenotype; GWAS; signatures of selection; metabolomics; production traits; reproduction; breed/line development; food security
 
 ## 3. Pendahuluan
 
@@ -107,7 +107,7 @@ Domba Temanggung merupakan plasma nutfah lokal Jawa Tengah dengan ciri khas feno
 
 Ketahanan pangan nasional menuntut peningkatan ketersediaan protein hewani yang berkelanjutan, efisien, dan berbasis sumberdaya genetik lokal. Domba merupakan komoditas strategis bagi peternak rakyat karena siklus produksi relatif cepat, modal relatif terjangkau, serta adaptif pada sistem pemeliharaan ekstensif–semi intensif. Di Kabupaten Temanggung, Domba Temanggung (sering disebut Domba Teropong) memiliki ciri khas pola bulu hitam di sekitar mata menyerupai kacamata/teropong, disertai karakter morfologi lokal lain (ekor tipis berbentuk V/*ngotes*, tanduk melengkung, telinga semi menggantung). Populasi diperkirakan sekitar 20.000 ekor dan menjadi identitas peternakan daerah, termasuk melalui komunitas Domba Seni Lokal (DSL). Pemerintah daerah telah menginisiasi pengajuan penetapan sebagai rumpun lokal asli untuk memperkuat legalitas dan standar genetik (DKPPP Temanggung, 2026).
 
-Penggaluran berbasis fenotip Teropong memiliki nilai strategis ganda: (1) menjaga kemurnian dan identitas genetik lokal; serta (2) membangun sistem seleksi bibit yang lebih terukur apabila fenotip identitas tersebut dapat dikaitkan dengan keunggulan produksi dan proliferasi. Namun, hingga kini informasi genetik Domba Temanggung masih sangat terbatas. Studi awal berbasis mtDNA *cytochrome b* menunjukkan keragaman maternal rendah dan campuran haplogroup A/B, tetapi belum dapat dijadikan bukti diferensiasi genomik nuklear antar fenotip Teropong dan non-Teropong (Ridlo et al., 2026). Studi pada domba lokal Jawa umumnya masih fokus pada keragaman mtDNA antarrumpun (Ibrahim et al., 2021; Ibrahim et al., 2023), belum pada asosiasi genom–fenotip untuk penggaluran.
+Penggaluran berbasis fenotip Teropong memiliki nilai strategis ganda: (1) menjaga kemurnian dan identitas genetik lokal; serta (2) membangun sistem seleksi bibit yang lebih terukur apabila fenotip identitas tersebut dapat dikaitkan dengan keunggulan produksi dan reproduksi. Namun, hingga kini informasi genetik Domba Temanggung masih sangat terbatas. Studi awal berbasis mtDNA *cytochrome b* menunjukkan keragaman maternal rendah dan campuran haplogroup A/B, tetapi belum dapat dijadikan bukti diferensiasi genomik nuklear antar fenotip Teropong dan non-Teropong (Ridlo et al., 2026). Studi pada domba lokal Jawa umumnya masih fokus pada keragaman mtDNA antarrumpun (Ibrahim et al., 2021; Ibrahim et al., 2023), belum pada asosiasi genom–fenotip untuk penggaluran.
 
 Di tingkat global, warna bulu/pola pigmen pada domba telah berhasil diurai melalui GWAS dan *selective sweep*, dengan gen kandidat utama pada jalur melanogenesis seperti *MC1R*, *MITF*, dan *KIT* (Yang et al., 2013; Xu et al., 2023; Zhang et al., 2025; Liu et al., 2026). Pendekatan serupa juga efektif untuk sifat pertumbuhan dan produksi. Di sisi lain, metabolomik dan multi-omik semakin digunakan untuk memahami efisiensi pakan, metabolisme, dan prediksi sifat produksi pada domba (Hess et al., 2020; Wang et al., 2024). Integrasi genomik–metabolomik pada Domba Temanggung belum pernah dilaporkan, sehingga menjadi peluang kebaruan yang kuat untuk mendukung penggaluran bibit unggul lokal.
 
@@ -115,12 +115,12 @@ Di tingkat global, warna bulu/pola pigmen pada domba telah berhasil diurai melal
 
 **Rumusan masalah:**
 1. Apakah fenotip Teropong Domba Temanggung memiliki dasar genetik nuklear yang terdeteksi melalui GWAS dan *signatures of selection*?
-2. Bagaimana struktur asosiasi genomik terhadap sifat produksi (bobot badan dan morfometri) serta parameter proliferasi pada populasi Domba Temanggung?
-3. Apakah terdapat profil metabolit diferensial yang berkorelasi dengan fenotip Teropong, performa produksi, dan proliferasi?
+2. Bagaimana struktur asosiasi genomik terhadap sifat produksi (bobot badan dan morfometri) serta parameter reproduksi pada populasi Domba Temanggung?
+3. Apakah terdapat profil metabolit diferensial yang berkorelasi dengan fenotip Teropong, performa produksi, dan reproduksi?
 4. Bagaimana integrasi data genomik–metabolomik dapat menghasilkan panel marka dan model seleksi yang operasional untuk penggaluran bibit unggul?
 
 **Hipotesis solusi:**
-Fenotip Teropong dikendalikan oleh lokus genetik terkait pigmen yang dapat dipetakan genomik; sifat produksi dan proliferasi memiliki komponen genetik aditif yang terukur; profil metabolom memberikan biomarker pelengkap; integrasi keduanya menghasilkan basis saintifik penggaluran Domba Temanggung Teropong sebagai bibit unggul pendukung ketahanan pangan.
+Fenotip Teropong dikendalikan oleh lokus genetik terkait pigmen yang dapat dipetakan genomik; sifat produksi dan reproduksi memiliki komponen genetik aditif yang terukur; profil metabolom memberikan biomarker pelengkap; integrasi keduanya menghasilkan basis saintifik penggaluran Domba Temanggung Teropong sebagai bibit unggul pendukung ketahanan pangan.
 
 ### 3.3 State of the Art dan Kebaruan (*Novelty*)
 
@@ -132,7 +132,7 @@ Fenotip Teropong dikendalikan oleh lokus genetik terkait pigmen yang dapat dipet
 
 **Kebaruan riset:**
 1. Pertama kali mengintegrasikan **genomik nuklear (GWAS + signatures of selection)** dan **metabolomik** pada Domba Temanggung.
-2. Memperluas fokus dari sekadar identitas fenotip Teropong menuju **paket sifat**: Teropong + sifat produksi + proliferasi sebagai kriteria penggaluran.
+2. Memperluas fokus dari sekadar identitas fenotip Teropong menuju **paket sifat**: Teropong + sifat produksi + reproduksi sebagai kriteria penggaluran.
 3. Menghasilkan **panel marka dan model seleksi** yang dapat dihilirisasi sebagai instrumen bibit unggul lokal untuk ketahanan pangan.
 
 ### 3.4 Tujuan dan Sasaran
@@ -141,9 +141,9 @@ Fenotip Teropong dikendalikan oleh lokus genetik terkait pigmen yang dapat dipet
 Menghasilkan basis saintifik genomik–metabolomik untuk penggaluran Domba Temanggung fenotip Teropong sebagai bibit unggul pendukung ketahanan pangan.
 
 **Tujuan khusus:**
-1. Menetapkan standar fenotipik Teropong, sifat produksi, dan proliferasi Domba Temanggung.
+1. Menetapkan standar fenotipik Teropong, sifat produksi, dan reproduksi Domba Temanggung.
 2. Mengidentifikasi lokus/kandidat gen terkait fenotip Teropong melalui GWAS dan *signatures of selection*.
-3. Memetakan asosiasi genomik sifat bobot badan, morfometri, dan proliferasi.
+3. Memetakan asosiasi genomik sifat bobot badan, morfometri, dan reproduksi.
 4. Mengarakterisasi profil metabolom terkait kelompok fenotip/performa.
 5. Menyusun panel marka dan model seleksi multi-omik untuk penggaluran bibit.
 6. Menyusun rekomendasi teknis penggaluran bersama mitra daerah.
@@ -160,7 +160,7 @@ Menghasilkan basis saintifik genomik–metabolomik untuk penggaluran Domba Teman
 
 Riset bertolak dari kebutuhan membedakan dan mengembangkan galur Domba Temanggung Teropong secara ilmiah. Kerangka alur sebagai berikut:
 
-1. **Input:** populasi Domba Temanggung (Teropong vs non-Teropong) + data sifat produksi & proliferasi.
+1. **Input:** populasi Domba Temanggung (Teropong vs non-Teropong) + data sifat produksi & reproduksi.
 2. **Proses:**
    - Standardisasi fenotip dan sampling biologis;
    - Analisis genomik: struktur populasi, GWAS, *signatures of selection* (FST, π-ratio, iHS/XP-EHH, ROH);
@@ -169,7 +169,7 @@ Riset bertolak dari kebutuhan membedakan dan mengembangkan galur Domba Temanggun
 3. **Output:** lokus kandidat, panel marka, biomarker, model seleksi, rekomendasi penggaluran.
 4. **Outcome:** penguatan sistem bibit lokal unggul → peningkatan produktivitas peternak → kontribusi protein hewani nasional (ketahanan pangan).
 
-Secara konseptual, fenotip Teropong berfungsi sebagai *breed/line identity marker*, sementara sifat produksi dan proliferasi menjadi *economic merit*. Genomik menjelaskan heritabilitas dan lokus kunci; metabolomik menjelaskan status fisiologis/metabolik yang relevan dengan performa. Integrasi keduanya mengurangi risiko seleksi hanya berbasis penampilan visual.
+Secara konseptual, fenotip Teropong berfungsi sebagai *breed/line identity marker*, sementara sifat produksi dan reproduksi menjadi *economic merit*. Genomik menjelaskan heritabilitas dan lokus kunci; metabolomik menjelaskan status fisiologis/metabolik yang relevan dengan performa. Integrasi keduanya mengurangi risiko seleksi hanya berbasis penampilan visual.
 
 ### 4.2 Nilai Strategis
 
@@ -200,7 +200,7 @@ Durasi usulan: **3 tahun** (2026–2028).
 
 Desain kombinasi:
 - **Case–control** untuk fenotip Teropong vs non-Teropong;
-- **Asosiasi kuantitatif** untuk bobot badan, morfometri, dan parameter proliferasi;
+- **Asosiasi kuantitatif** untuk bobot badan, morfometri, dan parameter reproduksi;
 - **Multi-omik integratif** (genomik + metabolomik).
 
 ### 6.2 Lokasi dan Populasi
@@ -218,7 +218,7 @@ Pengajuan Klirens Etik Riset sesuai Peraturan BRIN sebelum sampling hewan.
 #### B. Standardisasi fenotip
 1. **Fenotip Teropong:** skor kehadiran/intensitas/simetri lingkar hitam periokular (skala ordinal + foto standar).
 2. **Sifat produksi:** bobot badan; morfometri (tinggi pundak, panjang badan, lingkar dada, lebar dada, dalam dada, lingkar cannon, dll.) merujuk praktik karakterisasi domba lokal (Gunawan et al., 2008; Hidayat et al., 2024).
-3. **Proliferasi:** litter size, jarak beranak, angka kebuntingan, survival anak, dan/atau indikator fisiologis terkait (sesuai ketersediaan rekaman peternak; dilengkapi ultrasonografi bila memungkinkan).
+3. **Reproduksi:** litter size, jarak beranak, angka kebuntingan, survival anak, dan/atau indikator fisiologis terkait (sesuai ketersediaan rekaman peternak; dilengkapi ultrasonografi bila memungkinkan).
 4. Kovariat: umur, jenis kelamin, tipe kelahiran, lokasi/peternak, manajemen.
 
 #### C. Sampling biologis
@@ -228,7 +228,7 @@ Darah (EDTA) untuk DNA; serum/plasma untuk metabolomik; subset swab/jaringan kul
 1. Ekstraksi DNA dan QC (konsentrasi, kemurnian, integritas).
 2. Genotyping menggunakan SNP chip densitas menengah–tinggi dan/atau low-coverage WGS + imputation.
 3. QC genotip: call rate, MAF, HWE, relatedness, PCA/struktur populasi.
-4. **GWAS:** model mixed linear (GRM/kinship) untuk sifat biner (Teropong) dan kuantitatif (bobot, morfometri, proliferasi); koreksi multiple testing (Bonferroni/FDR); estimasi heritabilitas SNP-based.
+4. **GWAS:** model mixed linear (GRM/kinship) untuk sifat biner (Teropong) dan kuantitatif (bobot, morfometri, reproduksi); koreksi multiple testing (Bonferroni/FDR); estimasi heritabilitas SNP-based.
 5. **Signatures of selection:** FST antar kelompok fenotip, π-ratio, iHS, XP-EHH, dan analisis ROH untuk mendeteksi jejak seleksi terkait identitas galur/adaptasi.
 6. Anotasi gen kandidat (Ensembl/NCBI), enrichment jalur (melanogenesis, pertumbuhan, reproduksi).
 
@@ -240,7 +240,7 @@ Darah (EDTA) untuk DNA; serum/plasma untuk metabolomik; subset swab/jaringan kul
 
 #### F. Integrasi multi-omik dan model seleksi
 1. Network/correlation integration gen–metabolit–fenotip.
-2. Penyusunan **panel marka SNP** prioritas (teropong + produksi + proliferasi).
+2. Penyusunan **panel marka SNP** prioritas (teropong + produksi + reproduksi).
 3. Pengembangan model seleksi (indeks/genomic breeding value sederhana) dan simulasi respons seleksi.
 4. Validasi internal (cross-validation) dan validasi terbatas pada kohort independen tahun akhir.
 
@@ -275,7 +275,7 @@ Riset diusulkan selama **3 (tiga) tahun periode pendanaan** (2026–2028), denga
 | 1 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | Manuskrip karakterisasi fenotip/struktur populasi Domba Temanggung |
 | 2 | Paten sederhana / KI basis data marka | draft | 1 | 100% | Draft spesifikasi panel marka/protokol fenotip–genomik |
 | 3 | Dataset fenotip–sampel | tersedia | 1 | 100% | Database fenotip ≥100 ekor + biobank DNA/serum |
-| 4 | Model/standar fenotip galur | draft | 1 | 100% | Draf standar fenotip Teropong–produksi–proliferasi |
+| 4 | Model/standar fenotip galur | draft | 1 | 100% | Draf standar fenotip Teropong–produksi–reproduksi |
 
 **Tahun 2 (2027)**
 
@@ -308,7 +308,7 @@ Riset diusulkan selama **3 (tiga) tahun periode pendanaan** (2026–2028), denga
 | 6 | Analisis struktur populasi | PCA, relatedness, diversity | T1 Bln 9–12 | Manuskrip 1 |
 | 7 | GWAS fenotip Teropong | Case–control GWAS | T2 Bln 1–4 | |
 | 8 | Signatures of selection | FST, iHS, XP-EHH, ROH | T2 Bln 2–6 | |
-| 9 | GWAS produksi & proliferasi | Sifat kuantitatif | T2 Bln 3–8 | |
+| 9 | GWAS produksi & reproduksi | Sifat kuantitatif | T2 Bln 3–8 | |
 | 10 | Metabolomik tahap II & integrasi | Diferensial + korelasi multi-omik | T2 Bln 4–10 | |
 | 11 | Penyusunan panel marka | Prioritisasi SNP/biomarker | T2 Bln 8–12 | Pengajuan KI |
 | 12 | Validasi marka & model seleksi | Validasi internal/terbatas | T3 Bln 1–6 | |
@@ -406,7 +406,7 @@ Menjelaskan struktur tim, kompetensi, peran, dan pengalaman yang relevan dengan 
 |---|---|---|---|---|---|
 | 1 | *[Ketua]* | S3 / S2 on-going S3, bidang Peternakan/Genetika | Genetika ternak, pemuliaan | Koordinator riset, desain genomik, interpretasi GWAS & selection signatures | *[url]* |
 | 2 | *[Anggota 1]* | S2/S3, Bioteknologi/Biokimia | Metabolomik, biologi molekuler | Analisis metabolomik & integrasi multi-omik | *[url]* |
-| 3 | *[Anggota 2]* | S2/S3, Produksi Ternak | Produksi & reproduksi ruminansia kecil | Fenotip produksi, proliferasi, sampling lapangan | *[url]* |
+| 3 | *[Anggota 2]* | S2/S3, Produksi Ternak | Produksi & reproduksi ruminansia kecil | Fenotip produksi, reproduksi, sampling lapangan | *[url]* |
 | 4 | *[Anggota 3]* | S1/S2, Statistika/Bioinformatika | Bioinformatika genomik | Pipeline QC, GWAS, selection scan, kurasi data | *[url]* |
 
 > Sesuai juknis: tim minimal 2 anggota + ketua (total minimal 3, maksimal 7 termasuk ketua); peran dan rekam jejak harus relevan dan tercantum dalam biodata/SK tim.
@@ -434,7 +434,7 @@ Populasi Domba Temanggung
    │
    ├─ Fenotip Teropong vs Non-Teropong
    ├─ Sifat produksi (bobot, morfometri)
-   └─ Proliferasi
+   └─ Reproduksi
            │
            ▼
    Sampling DNA + Serum

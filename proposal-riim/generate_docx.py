@@ -53,9 +53,9 @@ add_center("TEMA", True)
 add_center("Kedaulatan Pangan")
 doc.add_paragraph()
 add_center("JUDUL", True)
-add_center("Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi,", True, 12)
-add_center("serta Proliferasi Domba Temanggung sebagai Basis", True, 12)
-add_center("Penggaluran Bibit Unggul untuk Ketahanan Pangan", True, 12)
+add_center("Integrasi Genomik dan Metabolomik pada Fenotip Teropong,", True, 12)
+add_center("Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran", True, 12)
+add_center("Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional", True, 12)
 doc.add_paragraph()
 add_center("KETUA: [Nama Ketua Periset]")
 add_center("ANGGOTA:")
@@ -75,7 +75,7 @@ add_center("HALAMAN PENGESAHAN", True, 14)
 add_center("PROPOSAL RISET DAN INOVASI UNTUK INDONESIA MAJU KOMPETISI", True, 12)
 doc.add_paragraph()
 add_para("1. Tema\t: Kedaulatan Pangan", justify=False)
-add_para("2. Judul Proposal\t: Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domba Temanggung sebagai Basis Penggaluran Bibit Unggul untuk Ketahanan Pangan", justify=False)
+add_para("2. Judul Proposal\t: Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional", justify=False)
 add_para("3. Ketua Periset", bold=True, justify=False)
 for line in [
     "a. Nama Lengkap\t: [diisi]",
@@ -110,7 +110,7 @@ doc.add_page_break()
 
 # ISI
 add_h("1. Judul Riset", 1)
-add_para("Genomik dan Metabolomik Fenotip Teropong, Sifat Produksi, serta Proliferasi Domba Temanggung sebagai Basis Penggaluran Bibit Unggul untuk Ketahanan Pangan")
+add_para("Integrasi Genomik dan Metabolomik pada Fenotip Teropong, Sifat Produksi, dan Reproduksi sebagai Basis Penggaluran Bibit Unggul Domba Temanggung untuk Ketahanan Pangan Nasional")
 
 add_h("2. Abstrak", 1)
 add_para(
@@ -119,7 +119,7 @@ add_para(
     "Namun, diferensiasi galur Teropong versus non-Teropong masih bertumpu pada deskripsi fenotipik visual dan data genetik "
     "maternal terbatas (mtDNA), sehingga belum tersedia bukti genomik nuklear maupun profil metabolomik yang mendukung "
     "penggaluran berbasis sains. Riset ini mengintegrasikan pendekatan genomik (GWAS dan signatures of selection) serta "
-    "metabolomik untuk mengarakterisasi fenotip Teropong, sifat produksi (bobot badan dan morfometri), serta proliferasi "
+    "metabolomik untuk mengarakterisasi fenotip Teropong, sifat produksi (bobot badan dan morfometri), serta reproduksi "
     "Domba Temanggung sebagai basis penggaluran bibit unggul. Populasi studi dirancang case–control dan kuantitatif pada "
     "Domba Temanggung di Kabupaten Temanggung dengan mitra DKPPP dan komunitas peternak. Kegiatan meliputi standardisasi "
     "fenotip, genotyping/whole-genome sequencing, asosiasi genom–fenotip, deteksi jejak seleksi, profil metabolom "
@@ -127,8 +127,8 @@ add_para(
     "mencakup publikasi jurnal internasional bereputasi, kekayaan intelektual (panel marka/paten sederhana), dan rekomendasi "
     "teknis penggaluran yang dapat memperkuat penyediaan bibit lokal unggul dan mendukung ketahanan pangan berbasis protein hewani."
 )
-add_para("Kata kunci: Domba Temanggung; fenotip teropong; GWAS; signatures of selection; metabolomik; sifat produksi; proliferasi; penggaluran bibit; ketahanan pangan", bold=False)
-add_para("Keywords: Temanggung sheep; periocular black phenotype; GWAS; signatures of selection; metabolomics; production traits; proliferation; breed/line development; food security")
+add_para("Kata kunci: Domba Temanggung; fenotip teropong; GWAS; signatures of selection; metabolomik; sifat produksi; reproduksi; penggaluran bibit; ketahanan pangan", bold=False)
+add_para("Keywords: Temanggung sheep; periocular black phenotype; GWAS; signatures of selection; metabolomics; production traits; reproduction; breed/line development; food security")
 
 add_h("3. Pendahuluan", 1)
 add_h("3.1 Latar Belakang", 2)
@@ -145,7 +145,7 @@ add_para(
 add_para(
     "Penggaluran berbasis fenotip Teropong memiliki nilai strategis ganda: (1) menjaga kemurnian dan identitas genetik lokal; "
     "serta (2) membangun sistem seleksi bibit yang lebih terukur apabila fenotip identitas tersebut dapat dikaitkan dengan "
-    "keunggulan produksi dan proliferasi. Namun, informasi genetik Domba Temanggung masih sangat terbatas. Studi awal berbasis "
+    "keunggulan produksi dan reproduksi. Namun, informasi genetik Domba Temanggung masih sangat terbatas. Studi awal berbasis "
     "mtDNA cytochrome b menunjukkan keragaman maternal rendah dan campuran haplogroup A/B, tetapi belum dapat dijadikan bukti "
     "diferensiasi genomik nuklear antar fenotip Teropong dan non-Teropong (Ridlo et al., 2026). Studi pada domba lokal Jawa "
     "umumnya masih fokus pada keragaman mtDNA antarrumpun (Ibrahim et al., 2021; Ibrahim et al., 2023), belum pada asosiasi "
@@ -164,14 +164,14 @@ add_h("3.2 Rumusan Masalah dan Hipotesis Solusi", 2)
 add_para("Rumusan masalah:", bold=True)
 for i, q in enumerate([
     "Apakah fenotip Teropong Domba Temanggung memiliki dasar genetik nuklear yang terdeteksi melalui GWAS dan signatures of selection?",
-    "Bagaimana struktur asosiasi genomik terhadap sifat produksi (bobot badan dan morfometri) serta parameter proliferasi pada populasi Domba Temanggung?",
-    "Apakah terdapat profil metabolit diferensial yang berkorelasi dengan fenotip Teropong, performa produksi, dan proliferasi?",
+    "Bagaimana struktur asosiasi genomik terhadap sifat produksi (bobot badan dan morfometri) serta parameter reproduksi pada populasi Domba Temanggung?",
+    "Apakah terdapat profil metabolit diferensial yang berkorelasi dengan fenotip Teropong, performa produksi, dan reproduksi?",
     "Bagaimana integrasi data genomik–metabolomik dapat menghasilkan panel marka dan model seleksi yang operasional untuk penggaluran bibit unggul?",
 ], 1):
     add_para(f"{i}. {q}")
 add_para(
     "Hipotesis solusi: Fenotip Teropong dikendalikan oleh lokus genetik terkait pigmen yang dapat dipetakan genomik; sifat "
-    "produksi dan proliferasi memiliki komponen genetik aditif yang terukur; profil metabolom memberikan biomarker pelengkap; "
+    "produksi dan reproduksi memiliki komponen genetik aditif yang terukur; profil metabolom memberikan biomarker pelengkap; "
     "integrasi keduanya menghasilkan basis saintifik penggaluran Domba Temanggung Teropong sebagai bibit unggul pendukung ketahanan pangan."
 )
 
@@ -179,25 +179,25 @@ add_h("3.3 State of the Art dan Kebaruan (Novelty)", 2)
 add_para("State of the art:", bold=True)
 add_para("Karakterisasi Domba Temanggung masih pada tahap fenotipik lapangan dan mtDNA terbatas (Ridlo et al., 2026). GWAS/signatures of selection efektif mengidentifikasi lokus warna bulu dan sifat produksi pada domba di berbagai negara (Xu et al., 2023; Zhang et al., 2025; Liu et al., 2026). Metabolomik dan multi-omik meningkatkan pemahaman efisiensi dan performa produksi ruminansia kecil (Hess et al., 2020; Wang et al., 2024; Martinez et al., 2023). Di Indonesia, penggaluran/rumpun lokal umumnya berbasis morfometri dan penetapan administratif, belum berbasis panel marka multi-omik (Gunawan et al., 2008; Hidayat et al., 2024).")
 add_para("Kebaruan riset:", bold=True)
-add_para("(1) Pertama kali mengintegrasikan genomik nuklear (GWAS + signatures of selection) dan metabolomik pada Domba Temanggung; (2) memperluas fokus dari identitas fenotip Teropong menuju paket sifat Teropong + sifat produksi + proliferasi sebagai kriteria penggaluran; (3) menghasilkan panel marka dan model seleksi yang dapat dihilirisasi sebagai instrumen bibit unggul lokal untuk ketahanan pangan.")
+add_para("(1) Pertama kali mengintegrasikan genomik nuklear (GWAS + signatures of selection) dan metabolomik pada Domba Temanggung; (2) memperluas fokus dari identitas fenotip Teropong menuju paket sifat Teropong + sifat produksi + reproduksi sebagai kriteria penggaluran; (3) menghasilkan panel marka dan model seleksi yang dapat dihilirisasi sebagai instrumen bibit unggul lokal untuk ketahanan pangan.")
 
 add_h("3.4 Tujuan dan Sasaran", 2)
 add_para("Tujuan umum: Menghasilkan basis saintifik genomik–metabolomik untuk penggaluran Domba Temanggung fenotip Teropong sebagai bibit unggul pendukung ketahanan pangan.")
-add_para("Tujuan khusus: (1) menetapkan standar fenotipik Teropong, sifat produksi, dan proliferasi; (2) mengidentifikasi lokus/kandidat gen terkait fenotip Teropong melalui GWAS dan signatures of selection; (3) memetakan asosiasi genomik sifat bobot badan, morfometri, dan proliferasi; (4) mengarakterisasi profil metabolom terkait kelompok fenotip/performa; (5) menyusun panel marka dan model seleksi multi-omik; (6) menyusun rekomendasi teknis penggaluran bersama mitra daerah.")
+add_para("Tujuan khusus: (1) menetapkan standar fenotipik Teropong, sifat produksi, dan reproduksi; (2) mengidentifikasi lokus/kandidat gen terkait fenotip Teropong melalui GWAS dan signatures of selection; (3) memetakan asosiasi genomik sifat bobot badan, morfometri, dan reproduksi; (4) mengarakterisasi profil metabolom terkait kelompok fenotip/performa; (5) menyusun panel marka dan model seleksi multi-omik; (6) menyusun rekomendasi teknis penggaluran bersama mitra daerah.")
 add_para("Sasaran: tersedianya data primer fenotipik–genomik–metabolomik terkurasi; kandidat marka genetik dan biomarker metabolit; draf standar galur Teropong dan model seleksi bibit; serta meningkatnya kesiapan hilirisasi menuju penetapan galur/rumpun dan sistem perbibitan lokal.")
 
 add_h("4. Kerangka Berpikir dan Nilai Strategis", 1)
 add_h("4.1 Kerangka Berpikir", 2)
 add_para(
     "Riset bertolak dari kebutuhan membedakan dan mengembangkan galur Domba Temanggung Teropong secara ilmiah. Input berupa "
-    "populasi Teropong vs non-Teropong beserta data sifat produksi dan proliferasi diproses melalui standardisasi fenotip, "
+    "populasi Teropong vs non-Teropong beserta data sifat produksi dan reproduksi diproses melalui standardisasi fenotip, "
     "analisis genomik (struktur populasi, GWAS, signatures of selection: FST, π-ratio, iHS/XP-EHH, ROH), analisis metabolomik, "
     "serta integrasi multi-omik (gen → metabolit → fenotip). Output berupa lokus kandidat, panel marka, biomarker, model seleksi, "
     "dan rekomendasi penggaluran. Outcome yang diharapkan adalah penguatan sistem bibit lokal unggul yang meningkatkan "
     "produktivitas peternak dan berkontribusi pada penyediaan protein hewani nasional."
 )
 add_para(
-    "Secara konseptual, fenotip Teropong berfungsi sebagai breed/line identity marker, sementara sifat produksi dan proliferasi "
+    "Secara konseptual, fenotip Teropong berfungsi sebagai breed/line identity marker, sementara sifat produksi dan reproduksi "
     "menjadi economic merit. Genomik menjelaskan heritabilitas dan lokus kunci; metabolomik menjelaskan status fisiologis/metabolik "
     "yang relevan dengan performa. Integrasi keduanya mengurangi risiko seleksi hanya berbasis penampilan visual."
 )
@@ -217,12 +217,12 @@ add_para("Produk akhir: Sistem penggaluran bibit Domba Temanggung berbasis genom
 
 add_h("6. Metodologi", 1)
 add_h("6.1 Desain Riset", 2)
-add_para("Desain kombinasi case–control untuk fenotip Teropong vs non-Teropong; asosiasi kuantitatif untuk bobot badan, morfometri, dan parameter proliferasi; serta multi-omik integratif (genomik + metabolomik).")
+add_para("Desain kombinasi case–control untuk fenotip Teropong vs non-Teropong; asosiasi kuantitatif untuk bobot badan, morfometri, dan parameter reproduksi; serta multi-omik integratif (genomik + metabolomik).")
 add_h("6.2 Lokasi dan Populasi", 2)
 add_para("Lokasi: Kabupaten Temanggung, Jawa Tengah. Mitra: DKPPP Temanggung dan komunitas DSL/peternak. Target sampel genomik 100–150 ekor, seimbang Teropong : non-Teropong, dengan penambahan bertahap sesuai tahun pendanaan. Subset metabolomik 30–50 ekor terpilih berdasarkan kontras fenotip/performa, distandardisasi sampling.")
 add_h("6.3 Tahapan Pekerjaan", 2)
 add_para("A. Klirens etik dan perizinan sebelum sampling hewan sesuai Peraturan BRIN.")
-add_para("B. Standardisasi fenotip: skor Teropong (kehadiran/intensitas/simetri lingkar hitam periokular + foto standar); sifat produksi (bobot badan dan morfometri: tinggi pundak, panjang badan, lingkar dada, dll.); proliferasi (litter size, jarak beranak, angka kebuntingan, survival anak, dan/atau indikator fisiologis terkait); kovariat umur, jenis kelamin, tipe kelahiran, lokasi/peternak, manajemen.")
+add_para("B. Standardisasi fenotip: skor Teropong (kehadiran/intensitas/simetri lingkar hitam periokular + foto standar); sifat produksi (bobot badan dan morfometri: tinggi pundak, panjang badan, lingkar dada, dll.); reproduksi (litter size, jarak beranak, angka kebuntingan, survival anak, dan/atau indikator fisiologis terkait); kovariat umur, jenis kelamin, tipe kelahiran, lokasi/peternak, manajemen.")
 add_para("C. Sampling biologis: darah EDTA untuk DNA; serum/plasma untuk metabolomik; subset jaringan/swab kulit periokular opsional; cold-chain dan kurasi DMP.")
 add_para("D. Analisis genomik: ekstraksi DNA & QC; genotyping SNP chip densitas menengah–tinggi dan/atau low-coverage WGS + imputation; QC genotip; GWAS model mixed linear (GRM/kinship) untuk sifat biner dan kuantitatif; signatures of selection (FST, π-ratio, iHS, XP-EHH, ROH); anotasi gen kandidat dan enrichment jalur.")
 add_para("E. Analisis metabolomik: LC-MS/MS untargeted (± targeted); PCA/OPLS-DA; identifikasi metabolit dan pathway enrichment; korelasi dengan fenotip/genotipe (mGWAS/mQTL pada subset bila memadai).")
@@ -241,7 +241,7 @@ add_para("Tahun 3: minimal 1 KTI published + 1 accepted + 1 under review; KI tam
 
 add_h("9. Jadwal Kegiatan Riset", 1)
 add_para("Tahun 1: persiapan & etik; survei & sampling fenotip; koleksi sampel; ekstraksi DNA & genotyping; metabolomik tahap I; analisis struktur populasi dan manuskrip 1.")
-add_para("Tahun 2: GWAS fenotip Teropong; signatures of selection; GWAS produksi & proliferasi; metabolomik tahap II & integrasi; penyusunan panel marka dan pengajuan KI.")
+add_para("Tahun 2: GWAS fenotip Teropong; signatures of selection; GWAS produksi & reproduksi; metabolomik tahap II & integrasi; penyusunan panel marka dan pengajuan KI.")
 add_para("Tahun 3: validasi marka & model seleksi; finalisasi standar galur dan FGD mitra; publikasi, diseminasi, monev, dan pelaporan.")
 
 add_h("10. Anggaran per Tahun (Ringkasan RAB)", 1)
@@ -280,7 +280,7 @@ doc.add_page_break()
 add_h("Lampiran A. Kompetensi Tim Periset", 1)
 add_para("Ketua: kepakaran genetika ternak/pemuliaan — koordinator riset, desain genomik, interpretasi GWAS & selection signatures.")
 add_para("Anggota 1: metabolomik/biologi molekuler — analisis metabolomik & integrasi multi-omik.")
-add_para("Anggota 2: produksi & reproduksi ruminansia kecil — fenotip produksi, proliferasi, sampling lapangan.")
+add_para("Anggota 2: produksi & reproduksi ruminansia kecil — fenotip produksi, reproduksi, sampling lapangan.")
 add_para("Anggota 3: bioinformatika genomik — pipeline QC, GWAS, selection scan, kurasi data.")
 add_para("Catatan: lengkapi nama, pendidikan, URL SCOPUS, dan SK tim sebelum unggah.")
 
