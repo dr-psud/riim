@@ -66,12 +66,14 @@ Dinas Ketahanan Pangan, Pertanian dan Perikanan (DKPPP) Kabupaten Temanggung / K
 
 **7. Pendanaan**
 
+Pendanaan disusun berbasis kesetaraan output: **1 keluaran ≈ Rp150–200 juta**. Setiap tahun ditargetkan paket **1 KTI + 1 KI + 1 model/implementasi** sehingga usulan berada pada kisaran **Rp300–450 juta/tahun**.
+
 | No | Tahapan | Usulan Anggaran | Dana Pendamping | Total Anggaran |
 |---|---|---|---|---|
-| 1 | Tahun 1 (2026) | Rp750.000.000 | Rp0 | Rp750.000.000 |
-| 2 | Tahun 2 (2027) | Rp800.000.000 | Rp0 | Rp800.000.000 |
-| 3 | Tahun 3 (2028) | Rp650.000.000 | Rp0 | Rp650.000.000 |
-| | **Total Pengajuan Anggaran** | | | **Rp2.200.000.000** |
+| 1 | Tahun 1 (2026) | Rp400.000.000 | Rp0 | Rp400.000.000 |
+| 2 | Tahun 2 (2027) | Rp450.000.000 | Rp0 | Rp450.000.000 |
+| 3 | Tahun 3 (2028) | Rp400.000.000 | Rp0 | Rp400.000.000 |
+| | **Total Pengajuan Anggaran** | | | **Rp1.250.000.000** |
 
 Dengan ini menyatakan bahwa proposal yang diajukan bersifat orisinil dan belum pernah memperoleh pendanaan dari lembaga/sumber dana lain, serta tidak mengandung plagiasi.
 
@@ -183,7 +185,7 @@ Durasi usulan: **3 tahun** (2026–2028).
 
 | Tahun | Fokus | Output Tahunan |
 |---|---|---|
-| **Tahun 1** | Fondasi fenotip & data omik | Standar fenotip; koleksi sampel ≥200 ekor; genotyping tahap I; metabolom subset; draft manuskrip 1; draft KI |
+| **Tahun 1** | Fondasi fenotip & data omik | Standar fenotip; koleksi sampel ≥100 ekor; genotyping tahap I; metabolom subset; draft manuskrip 1; draft KI |
 | **Tahun 2** | Analisis genomik–metabolomik mendalam | Hasil GWAS & selection signatures; profil metabolom diferensial; model asosiasi awal; KTI T1 *accepted*; KTI baru *under review*; paten sederhana terdaftar |
 | **Tahun 3** | Integrasi, validasi & hilirisasi | Panel marka tervalidasi; model seleksi multi-omik; rekomendasi penggaluran; publikasi *published*; KI tambahan; diseminasi mitra |
 
@@ -205,8 +207,8 @@ Desain kombinasi:
 
 - Lokasi: Kabupaten Temanggung, Jawa Tengah (wilayah sebaran Domba Temanggung).
 - Mitra: DKPPP Temanggung dan komunitas DSL/peternak.
-- Target sampel genomik: **minimal 200 ekor** (ideal 240–300), seimbang Teropong : non-Teropong, mempertimbangkan jenis kelamin dan kelas umur.
-- Subset metabolomik: **60–100 ekor** terpilih berdasarkan kontras fenotip/performa, distandardisasi pakan/puasa sampling.
+- Target sampel genomik: **100–150 ekor** (seimbang Teropong : non-Teropong), dengan penambahan bertahap sesuai tahun pendanaan dan ketersediaan anggaran berbasis output.
+- Subset metabolomik: **30–50 ekor** terpilih berdasarkan kontras fenotip/performa, distandardisasi pakan/puasa sampling.
 
 ### 6.3 Tahapan Pekerjaan
 
@@ -272,7 +274,7 @@ Riset diusulkan selama **3 (tiga) tahun periode pendanaan** (2026–2028), denga
 |---|---|---|---|---|---|
 | 1 | Publikasi jurnal internasional minimal Q3 | under review | 1 | 100% | Manuskrip karakterisasi fenotip/struktur populasi Domba Temanggung |
 | 2 | Paten sederhana / KI basis data marka | draft | 1 | 100% | Draft spesifikasi panel marka/protokol fenotip–genomik |
-| 3 | Dataset fenotip–sampel | tersedia | 1 | 100% | Database fenotip ≥200 ekor + biobank DNA/serum |
+| 3 | Dataset fenotip–sampel | tersedia | 1 | 100% | Database fenotip ≥100 ekor + biobank DNA/serum |
 | 4 | Model/standar fenotip galur | draft | 1 | 100% | Draf standar fenotip Teropong–produksi–proliferasi |
 
 **Tahun 2 (2027)**
@@ -316,36 +318,49 @@ Riset diusulkan selama **3 (tiga) tahun periode pendanaan** (2026–2028), denga
 
 ## 10. Anggaran per Tahun / Periode Pendanaan (Ringkasan RAB)
 
+Pendanaan mengikuti prinsip kesetaraan output: **1 keluaran ≈ Rp150–200 juta**. Paket tahunan **1 KTI + 1 KI + 1 model/implementasi** dianggarkan pada rentang **Rp300–450 juta/tahun**.
+
 Proporsi mengikuti Juknis RIIM: **Biaya Langsung Personil ≤25%**, **Biaya Langsung Non-Personil ≥70%**, **Biaya Tidak Langsung ≤5%**.
+
+### Mapping keluaran–pendanaan
+
+| Tahun | Keluaran utama (dihitung untuk kesetaraan dana) | Estimasi kesetaraan | Usulan |
+|---|---|---|---:|
+| 1 | 1 KTI *under review* + 1 draft KI + 1 draft model/standar fenotip | 3 × (150–200 jt) → 300–450 jt | **Rp400.000.000** |
+| 2 | 1 KTI baru *under review* + 1 KI terdaftar + 1 model seleksi | 3 × (150–200 jt) → 300–450 jt | **Rp450.000.000** |
+| 3 | 1 KTI baru *under review* + 1 KI tambahan + 1 implementasi/rekomendasi teknis | 3 × (150–200 jt) → 300–450 jt | **Rp400.000.000** |
+| | **Total** | | **Rp1.250.000.000** |
+
+> Catatan: status *accepted/published* KTI tahun sebelumnya merupakan akumulasi kewajiban RIIM dan tidak dihitung sebagai keluaran baru untuk penambahan plafon dana tahunan.
 
 ### Ringkasan per tahun
 
 | Komponen | Tahun 1 | Tahun 2 | Tahun 3 | Total |
 |---|---:|---:|---:|---:|
-| A. Biaya Langsung Personil | 180.000.000 | 180.000.000 | 150.000.000 | 510.000.000 |
-| B. Biaya Langsung Non-Personil | 540.000.000 | 580.000.000 | 470.000.000 | 1.590.000.000 |
-| C. Biaya Tidak Langsung | 30.000.000 | 40.000.000 | 30.000.000 | 100.000.000 |
-| **Total** | **750.000.000** | **800.000.000** | **650.000.000** | **2.200.000.000** |
+| A. Biaya Langsung Personil | 90.000.000 | 100.000.000 | 90.000.000 | 280.000.000 |
+| B. Biaya Langsung Non-Personil | 290.000.000 | 328.000.000 | 290.000.000 | 908.000.000 |
+| C. Biaya Tidak Langsung | 20.000.000 | 22.000.000 | 20.000.000 | 62.000.000 |
+| **Total** | **400.000.000** | **450.000.000** | **400.000.000** | **1.250.000.000** |
 
 ### Rincian indikatif Tahun 1 (contoh struktur sesuai format RAB)
 
-**A. Biaya Langsung Personil**  
-- Ketua (12 OB × Rp3.600.000)  
-- Anggota (3 orang × 12 OB × Rp2.400.000)  
-- Asisten/administrator sesuai kebutuhan dan batas proporsi  
+**A. Biaya Langsung Personil (≤25%)**  
+- Ketua (≤12 OB × Rp3.600.000)  
+- Anggota (2 orang, OB disesuaikan agar subtotal personil ≤ Rp90.000.000)  
+- Asisten/administrator hanya jika masih dalam batas proporsi  
 
-**B. Biaya Langsung Non-Personil**
-1. **Belanja bahan:** kit ekstraksi DNA, reagen QC, tabung darah/serum, cryovial, bahan habis laboratorium, kit library/genotyping, bahan ekstraksi metabolom.
-2. **Jasa analisis:** genotyping/WGS, jasa LC-MS/MS metabolomik, sewa peralatan.
+**B. Biaya Langsung Non-Personil (≥70%)**
+1. **Belanja bahan:** kit ekstraksi DNA, reagen QC, tabung darah/serum, cryovial, bahan habis laboratorium.
+2. **Jasa analisis:** genotyping densitas menengah / lcWGS bertahap (±100–120 sampel T1), jasa LC-MS/MS metabolomik subset (±30 sampel).
 3. **Honor tenaga lapangan:** enumerasi fenotip & sampling di peternak.
-4. **Perjalanan dinas dalam negeri:** Temanggung–lokasi lab/institusi (tiket, transport, hotel, uang harian sesuai SBM).
-5. **Publikasi/seminar/lisensi perangkat lunak analisis** (sesuai ketentuan; publikasi Q1 dapat dianggarkan).
+4. **Perjalanan dinas dalam negeri:** Temanggung–lokasi lab/institusi (sesuai SBM).
+5. **Publikasi/seminar/lisensi perangkat lunak analisis** (sesuai ketentuan).
 6. **Belanja modal ≤10%** hanya jika sangat diperlukan dan dicatat institusi.
 
-**C. Biaya Tidak Langsung**  
+**C. Biaya Tidak Langsung (≤5%)**  
 Reviewer internal monev, perjalanan monev, konsumsi rapat monev sesuai SBM.
 
-> Catatan: RAB detail per item (volume, frekuensi, harga satuan, pemisahan pokok–pajak) dilampirkan pada lembar RAB resmi sistem Pendanaan Risnov, menyesuaikan status PKP/Non-PKP institusi.
+> Catatan: RAB detail per item (volume, frekuensi, harga satuan, pemisahan pokok–pajak) dilampirkan pada lembar RAB resmi sistem Pendanaan Risnov, menyesuaikan status PKP/Non-PKP institusi. Skala genotyping/metabolomik dipahas per tahun agar tetap sejalan dengan plafon berbasis output.
 
 ## 11. Daftar Pustaka
 
