@@ -174,18 +174,19 @@ Secara konseptual, fenotip Teropong berfungsi sebagai *breed/line identity marke
 
 ## 5. Peta Jalan (*Roadmap*)
 
-Durasi usulan: **3 tahun** (2026–2028), dengan fokus sifat yang berjenjang menuju kesiapan usulan galur.
+Peta jalan disusun untuk periode **2026–2029**, dengan kondisi eksisting bahwa pada **Tahun 2026 Domba Temanggung sedang dalam proses pengusulan sebagai rumpun lokal**. Kegiatan RIIM Kompetisi (2026–2028) menjadi fondasi ilmiah penggaluran, dilanjutkan hilirisasi penetapan galur pada Tahun 2029.
 
-| Tahun | Fokus Sifat | Kegiatan Inti | Output Tahunan |
+| Tahun | Status Kebijakan / Hilirisasi | Fokus Riset | Output Utama |
 |---|---|---|---|
-| **Tahun 1** | **Fenotip Teropong & sifat produksi** | Standardisasi skor Teropong; pengukuran bobot & morfometri; genotyping; GWAS + *signatures of selection* Teropong–produksi; metabolomik terkait identitas/produksi | Standar fenotip Teropong–produksi; kandidat marka; KTI1 *under review*; draft KI; model identitas–produksi |
-| **Tahun 2** | **Sifat reproduksi** | Pencatatan/ukur parameter reproduksi; GWAS reproduksi; metabolomik fisiologi reproduksi; penyusunan model seleksi reproduksi | Parameter reproduksi terukur; kandidat marka/biomarker reproduksi; KTI2 *under review*; KI terdaftar; model seleksi reproduksi |
-| **Tahun 3** | **Integrasi & usulan galur** | Integrasi multi-omik ketiga paket sifat; validasi panel marka; finalisasi standar galur; penyusunan naskah usulan galur bersama mitra | Panel marka terintegrasi; standar galur final; **naskah usulan galur** siap diajukan; KTI3 *under review*; KI tambahan |
+| **2026** | Eksisting: pengusulan **rumpun** berjalan; RIIM Tahun 1 dimulai | Fenotip **Teropong** & sifat **produksi** | Database multi-omik; draft standar identitas–produksi; KTI1 *under review* |
+| **2027** | Penguatan data pendukung rumpun; pendalaman penggaluran | Sifat **reproduksi** | Parameter reproduksi; model seleksi biomarka; draft KI; KTI2 |
+| **2028** | Penyusunan & **pendaftaran galur** Teropong (target TKT 7) | Integrasi multi-omik | Panel biomarka; model seleksi; **naskah usulan galur**; KI terdaftar; KTI3 |
+| **2029** | Hilirisasi: penetapan galur, SNI/standar bibit, adopsi lapangan | Validasi & diseminasi | Implementasi model seleksi bersama mitra; penguatan nilai ekonomi bibit |
 
 **Produk akhir (output besar):**  
-**Naskah usulan galur Domba Temanggung** berbasis bukti genomik–metabolomik pada fenotip Teropong, sifat produksi, dan reproduksi, lengkap dengan panel marka dan model seleksi bibit unggul untuk mendukung ketahanan pangan nasional.
+**Naskah usulan galur Domba Temanggung Teropong** berbasis bukti genomik–metabolomik, dilanjutkan hilirisasi penetapan dan adopsi seleksi bibit untuk mendukung kedaulatan pangan nasional.
 
-**Peta jalan lanjutan (pasca-RIIM):** pendampingan proses penetapan galur/rumpun di kementerian, uji lapangan skala lebih luas, dan adopsi panel marka pada sistem perbibitan daerah.
+**Alur ringkas:** Pengusulan rumpun (eksisting 2026) → riset Teropong–produksi (2026) → riset reproduksi (2027) → usulan galur (2028) → penetapan/adopsi (2029).
 
 ## 6. Metodologi
 
