@@ -178,15 +178,6 @@ def chart_laying_rate() -> Path:
         f"Puncak {round(LR_G2[peak_i])}% (Minggu {LR_WEEKS[peak_i]})",
         LR_COLOR,
     )
-    ax.annotate(
-        f"Terkini {LR_G2[-1]:.1f}%",
-        xy=(LR_WEEKS[-1], LR_G2[-1]),
-        xytext=(-55, 14),
-        textcoords="offset points",
-        fontsize=8.5,
-        color=ACCENT,
-        fontweight="600",
-    )
 
     style_axes(ax, "Tingkat Produksi Telur (%)")
     ax.set_xlim(18.5, 57.5)
