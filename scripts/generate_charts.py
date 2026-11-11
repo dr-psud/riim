@@ -171,7 +171,13 @@ def chart_laying_rate() -> Path:
     ax.scatter(LR_WEEKS, LR_G2, s=16, color=LR_COLOR, zorder=4, edgecolors="white", linewidths=0.6)
 
     peak_i = int(np.argmax(LR_G2))
-    annotate_peak(ax, LR_WEEKS[peak_i], LR_G2[peak_i], f"Peak {LR_G2[peak_i]:.1f}% · W{LR_WEEKS[peak_i]}", LR_COLOR)
+    annotate_peak(
+        ax,
+        LR_WEEKS[peak_i],
+        LR_G2[peak_i],
+        f"Puncak {round(LR_G2[peak_i])}% (Minggu {LR_WEEKS[peak_i]})",
+        LR_COLOR,
+    )
     ax.annotate(
         f"Terkini {LR_G2[-1]:.1f}%",
         xy=(LR_WEEKS[-1], LR_G2[-1]),
@@ -182,11 +188,7 @@ def chart_laying_rate() -> Path:
         fontweight="600",
     )
 
-    avg = float(LR_G2.mean())
-    ax.axhline(avg, color=MUTED, lw=1, ls=(0, (4, 3)), alpha=0.8, zorder=2)
-    ax.text(LR_WEEKS[0] + 0.3, avg + 1.5, f"Avg {avg:.1f}%", fontsize=8, color=MUTED)
-
-    style_axes(ax, "Laying Rate (%)")
+    style_axes(ax, "Tingkat Produksi Telur (%)")
     ax.set_xlim(18.5, 57.5)
     ax.set_ylim(0, 100)
     ax.xaxis.set_major_locator(MultipleLocator(2))
@@ -252,7 +254,7 @@ def chart_combined() -> Path:
 
     # KPIs strip
     kpis = [
-        ("Peak LR", f"{LR_G2.max():.1f}%", f"W{LR_WEEKS[int(np.argmax(LR_G2))]}"),
+        ("Puncak LR", f"{round(LR_G2.max())}%", f"Minggu {LR_WEEKS[int(np.argmax(LR_G2))]}"),
         ("LR terkini", f"{LR_G2[-1]:.1f}%", "W57"),
         ("Avg LR", f"{LR_G2.mean():.1f}%", "W19–57"),
         ("Peak bobot", f"{EW_WEIGHT.max():.2f} g", f"W{EW_WEEKS[int(np.argmax(EW_WEIGHT))]}"),
@@ -284,7 +286,15 @@ def chart_combined() -> Path:
     ax1.fill_between(LR_WEEKS, 0, LR_G2, color=LR_FILL, alpha=0.12, zorder=2)
     ax1.plot(LR_WEEKS, LR_G2, color=LR_COLOR, lw=2.2, zorder=3)
     ax1.scatter(LR_WEEKS, LR_G2, s=12, color=LR_COLOR, zorder=4, edgecolors="white", linewidths=0.5)
-    style_axes(ax1, "Laying Rate (%)")
+    peak_i = int(np.argmax(LR_G2))
+    annotate_peak(
+        ax1,
+        LR_WEEKS[peak_i],
+        LR_G2[peak_i],
+        f"Puncak {round(LR_G2[peak_i])}% (Minggu {LR_WEEKS[peak_i]})",
+        LR_COLOR,
+    )
+    style_axes(ax1, "Tingkat Produksi Telur (%)")
     ax1.set_xlim(18.5, 57.5)
     ax1.set_ylim(0, 100)
     ax1.set_title("Laying Rate G2 (%)", loc="left", fontsize=11, color=INK, pad=8)

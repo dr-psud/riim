@@ -25,5 +25,5 @@ python3 scripts/generate_charts.py
 
 ## Ringkasan temuan
 
-- **Laying Rate** puncak **91,53%** di minggu **34**, turun ke ~43% di W51, rebound ke **56,35%** di W57.
+- **Laying Rate** puncak **92%** di minggu **34**, turun ke ~43% di W51, rebound ke **56,35%** di W57.
 - **Bobot telur** naik dari **66,18 g** (W20) ke **72,44 g** (W30); SD mengecil (lebih seragam).
