@@ -16,8 +16,8 @@
       --ink: #1c2b24;
       --muted: #5f6f66;
       --line: #dde4dd;
-      --lr: #1f7a5c;
-      --lr-soft: rgba(31, 122, 92, 0.14);
+      --lr: #143a6b;
+      --lr-soft: rgba(20, 58, 107, 0.14);
       --ew: #c67a2f;
       --ew-soft: rgba(198, 122, 47, 0.14);
       --accent: #2e6b8a;
@@ -126,7 +126,7 @@
       margin-top: 14px;
       padding: 12px 14px;
       border-left: 3px solid var(--lr);
-      background: #f0f5f1;
+      background: #eef2f7;
       border-radius: 0 10px 10px 0;
       color: var(--muted);
       font-size: 0.88rem;
@@ -264,8 +264,8 @@
           {
             label: "Laying Rate G2",
             data: LR_G2,
-            borderColor: "#1f7a5c",
-            backgroundColor: "rgba(31,122,92,0.14)",
+            borderColor: "#143a6b",
+            backgroundColor: "rgba(20,58,107,0.14)",
             fill: true,
             tension: 0.35,
             pointRadius: 2.5,
@@ -275,7 +275,7 @@
           {
             label: "Upper (±1 SD)",
             data: LR_G2.map((v,i)=> +(v+LR_STD[i]).toFixed(2)),
-            borderColor: "rgba(31,122,92,0.25)",
+            borderColor: "rgba(20,58,107,0.25)",
             backgroundColor: "transparent",
             borderDash: [4,4],
             pointRadius: 0,
@@ -285,7 +285,7 @@
           {
             label: "Lower (±1 SD)",
             data: LR_G2.map((v,i)=> +Math.max(0, v-LR_STD[i]).toFixed(2)),
-            borderColor: "rgba(31,122,92,0.25)",
+            borderColor: "rgba(20,58,107,0.25)",
             backgroundColor: "transparent",
             borderDash: [4,4],
             pointRadius: 0,
@@ -308,7 +308,7 @@
                 type: "point",
                 xValue: 15,
                 yValue: 91.53,
-                backgroundColor: "#1f7a5c",
+                backgroundColor: "#143a6b",
                 borderColor: "#fff",
                 borderWidth: 2,
                 radius: 5,
@@ -316,7 +316,7 @@
                   display: true,
                   content: "Puncak 92% (Minggu 34)",
                   position: "top",
-                  backgroundColor: "#1f7a5c",
+                  backgroundColor: "#143a6b",
                   color: "#fff",
                   font: { size: 10, weight: "600" },
                   padding: 4,
@@ -411,8 +411,8 @@
         labels: EW_WEEKS,
         datasets: [{
           data: overlapLR,
-          borderColor: "#1f7a5c",
-          backgroundColor: "rgba(31,122,92,0.14)",
+          borderColor: "#143a6b",
+          backgroundColor: "rgba(20,58,107,0.14)",
           fill: true,
           tension: 0.35,
           pointRadius: 3,

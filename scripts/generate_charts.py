@@ -13,14 +13,14 @@ from matplotlib.ticker import MultipleLocator
 OUT = Path(__file__).resolve().parents[1] / "charts"
 OUT.mkdir(parents=True, exist_ok=True)
 
-# Theme — clean agricultural teal / amber (modern flat analytics)
+# Theme — dark blue LR + amber egg weight (modern flat analytics)
 BG = "#F7F8F5"
 PANEL = "#FFFFFF"
 INK = "#1C2B24"
 MUTED = "#5F6F66"
 GRID = "#E4E9E4"
-LR_COLOR = "#1F7A5C"
-LR_FILL = "#1F7A5C"
+LR_COLOR = "#143A6B"
+LR_FILL = "#143A6B"
 EW_COLOR = "#C67A2F"
 EW_FILL = "#C67A2F"
 ACCENT = "#2E6B8A"
