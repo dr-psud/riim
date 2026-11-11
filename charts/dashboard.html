@@ -374,8 +374,26 @@
           ...baseOpts.plugins,
           annotation: {
             annotations: {
-              peak: { type: "line", yMin: 72.44, yMax: 72.44, borderColor: "#c67a2f", borderWidth: 1, borderDash: [5,4], label: { display: true, content: "Peak 72.44 g", position: "end", backgroundColor: "#c67a2f", color: "#fff", font: { size: 10 } } },
-              avg: { type: "line", yMin: avgEW, yMax: avgEW, borderColor: "#5f6f66", borderWidth: 1, borderDash: [3,3], label: { display: true, content: `Avg ${avgEW} g`, position: "start", backgroundColor: "#5f6f66", color: "#fff", font: { size: 10 } } },
+              peak: {
+                type: "point",
+                xValue: 10,
+                yValue: 72.44,
+                backgroundColor: "#c67a2f",
+                borderColor: "#fff",
+                borderWidth: 2,
+                radius: 5,
+                label: {
+                  display: true,
+                  content: "Bobot 72.44 g (Minggu 30)",
+                  position: "left",
+                  backgroundColor: "#c67a2f",
+                  color: "#fff",
+                  font: { size: 10, weight: "600" },
+                  padding: 4,
+                  yAdjust: -14,
+                },
+              },
+              avg: { type: "line", yMin: avgEW, yMax: avgEW, borderColor: "#5f6f66", borderWidth: 1, borderDash: [3,3], label: { display: true, content: `Rata-rata Bobot ${avgEW} g`, position: "start", backgroundColor: "#5f6f66", color: "#fff", font: { size: 10 } } },
             },
           },
         },

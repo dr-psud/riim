@@ -208,17 +208,47 @@ def chart_egg_weight() -> Path:
     ax.scatter(EW_WEEKS, EW_WEIGHT, s=28, color=EW_COLOR, zorder=4, edgecolors="white", linewidths=0.8)
 
     peak_i = int(np.argmax(EW_WEIGHT))
-    annotate_peak(
-        ax,
-        EW_WEEKS[peak_i],
-        EW_WEIGHT[peak_i],
-        f"Peak {EW_WEIGHT[peak_i]:.2f} g · W{EW_WEEKS[peak_i]}",
-        EW_COLOR,
+    peak_x = float(EW_WEEKS[peak_i])
+    peak_y = float(EW_WEIGHT[peak_i])
+    ax.scatter(
+        [peak_x],
+        [peak_y],
+        s=42,
+        color=EW_COLOR,
+        zorder=5,
+        edgecolors="white",
+        linewidths=1.2,
+    )
+    # Place label left of the peak, above the curve, fully inside the plot box
+    ax.annotate(
+        f"Bobot {peak_y:.2f} g (Minggu {int(peak_x)})",
+        xy=(peak_x, peak_y),
+        xytext=(26.2, 73.35),
+        textcoords="data",
+        fontsize=8.5,
+        color=EW_COLOR,
+        fontweight="600",
+        ha="left",
+        va="center",
+        arrowprops=dict(
+            arrowstyle="-",
+            color=EW_COLOR,
+            lw=0.8,
+            connectionstyle="arc3,rad=0.05",
+        ),
+        clip_on=True,
+        zorder=6,
     )
 
     avg = float(EW_WEIGHT.mean())
     ax.axhline(avg, color=MUTED, lw=1, ls=(0, (4, 3)), alpha=0.8, zorder=2)
-    ax.text(EW_WEEKS[0] + 0.15, avg + 0.25, f"Avg {avg:.1f} g", fontsize=8, color=MUTED)
+    ax.text(
+        EW_WEEKS[0] + 0.15,
+        avg + 0.25,
+        f"Rata-rata Bobot {avg:.1f} g",
+        fontsize=8,
+        color=MUTED,
+    )
 
     style_axes(ax, "Bobot telur (g)")
     ax.set_xlim(19.5, 30.5)
